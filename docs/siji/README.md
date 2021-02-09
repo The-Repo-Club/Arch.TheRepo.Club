@@ -8,7 +8,7 @@ pacman -Si *therepoclub/siji*
 <b>Version</b>         : 2021.01.01-1
 <b>Description</b>     : Iconic bitmap font based on stlarch with additional glyphs
 <b>Architecture</b>    : any
-<b>URL</b>             : https://github.com/The-Repo-Club/siji
+<b>URL</b>             : https://github.com/TheCynicalTeam/siji
 <b>Licenses</b>        : GPL3
 <b>Groups</b>          : None
 <b>Provides</b>        : None
@@ -18,7 +18,7 @@ pacman -Si *therepoclub/siji*
 <b>Replaces</b>        : None
 <b>Download Size</b>   : 53.23 KiB
 <b>Installed Size</b>  : 166.98 KiB
-<b>Packager</b>        : The-Repo-Club <wayne6324@gmail.com>
+<b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
 <b>Build Date</b>      : Fri 01 Jan 2021 12:43:21 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>

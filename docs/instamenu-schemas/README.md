@@ -16,10 +16,10 @@ pacman -Si *therepoclub/instamenu-schemas*
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 15.47 KiB
+<b>Download Size</b>   : 15.75 KiB
 <b>Installed Size</b>  : 1.88 KiB
-<b>Packager</b>        : The-Repo-Club <wayne6324@gmail.com>
-<b>Build Date</b>      : Thu 21 Jan 2021 17:53:18 GMT
+<b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
+<b>Build Date</b>      : Tue 09 Feb 2021 14:04:15 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

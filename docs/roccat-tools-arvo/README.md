@@ -18,7 +18,7 @@ pacman -Si *therepoclub/roccat-tools-arvo*
 <b>Replaces</b>        : None
 <b>Download Size</b>   : 58.30 KiB
 <b>Installed Size</b>  : 162.00 KiB
-<b>Packager</b>        : The-Repo-Club <wayne6324@gmail.com>
+<b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
 <b>Build Date</b>      : Tue 22 Sep 2020 17:58:40 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>

@@ -16,10 +16,10 @@ pacman -Si *therepoclub/anymeal*
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 396.31 KiB
-<b>Installed Size</b>  : 649.83 KiB
+<b>Download Size</b>   : 396.89 KiB
+<b>Installed Size</b>  : 649.92 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Tue 02 Feb 2021 11:56:52 GMT
+<b>Build Date</b>      : Tue 09 Feb 2021 13:55:29 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

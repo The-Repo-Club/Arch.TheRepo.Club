@@ -16,10 +16,10 @@ pacman -Si *therepoclub/auracle*
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : auracle
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 407.26 KiB
-<b>Installed Size</b>  : 898.66 KiB
-<b>Packager</b>        : The-Repo-Club <wayne6324@gmail.com>
-<b>Build Date</b>      : Thu 07 Jan 2021 14:53:31 GMT
+<b>Download Size</b>   : 375.27 KiB
+<b>Installed Size</b>  : 829.21 KiB
+<b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
+<b>Build Date</b>      : Tue 09 Feb 2021 13:56:09 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

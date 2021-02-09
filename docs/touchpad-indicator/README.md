@@ -16,10 +16,10 @@ pacman -Si *therepoclub/touchpad-indicator*
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : touchpad-indicator
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 441.99 KiB
+<b>Download Size</b>   : 442.99 KiB
 <b>Installed Size</b>  : 1182.74 KiB
-<b>Packager</b>        : The-Repo-Club <wayne6324@gmail.com>
-<b>Build Date</b>      : Sun 17 Jan 2021 18:08:36 GMT
+<b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
+<b>Build Date</b>      : Tue 09 Feb 2021 14:14:26 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

@@ -4,7 +4,7 @@
   <img src='https://img.shields.io/badge/Maintained-Yes-green?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/last-commit/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/repo-size/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
-  <img src='https://img.shields.io/static/v1?label=Packages&message=92&color=red&style=flat-square'>
+  <img src='https://img.shields.io/static/v1?label=Packages&message=93&color=red&style=flat-square'>
   <img src='https://img.shields.io/static/v1?label=License&message=CC%20BY-NC-SA%204.0&color=red&style=flat-square'>
   <img src='https://img.shields.io/github/issues/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/stars/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
@@ -21,7 +21,6 @@
 *   [bpytop](docs/bpytop/) Version: 1.0.61-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/bpytop-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/bpytop-git?color=orange&style=flat-square)
 *   [bspwm-cheat](docs/bspwm-cheat/) Version: 2021.01.17-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/bspwm-cheat?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/bspwm-cheat?color=orange&style=flat-square)
 *   [bumblebee-status](docs/bumblebee-status/) Version: 2.1.1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/bumblebee-status?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/bumblebee-status?color=orange&style=flat-square)
-*   [charmap](docs/charmap/) Version: 2021.02.08-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/charmap?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/charmap?color=orange&style=flat-square)
 *   [checkupdates+aur](docs/checkupdates+aur/) Version: 1-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/checkupdates+aur?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/checkupdates+aur?color=orange&style=flat-square)
 *   [checkupdates-aur](docs/checkupdates-aur/) Version: 0.04-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/checkupdates-aur?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/checkupdates-aur?color=orange&style=flat-square)
 *   [ckb-next](docs/ckb-next/) Version: 0.4.3-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/ckb-next?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/ckb-next?color=orange&style=flat-square)
@@ -43,7 +42,7 @@
 *   [instamenu](docs/instamenu/) Version: 2021.02.07-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/instamenu?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/instamenu?color=orange&style=flat-square)
 *   [instamenu-extra](docs/instamenu-extra/) Version: 2021.01.15-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/instamenu-extra?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/instamenu-extra?color=orange&style=flat-square)
 *   [instamenu-schemas](docs/instamenu-schemas/) Version: 2021.01.10-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/instamenu-schemas?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/instamenu-schemas?color=orange&style=flat-square)
-*   [lazygit](docs/lazygit/) Version: 0.24.2-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/lazygit?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/lazygit?color=orange&style=flat-square)
+*   [lazygit](docs/lazygit/) Version: 0.24.2-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/lazygit?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/lazygit?color=orange&style=flat-square)
 *   [lib32-libxft-bgra](docs/lib32-libxft-bgra/) Version: 2.3.3.r7.7808631e-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/lib32-libxft-bgra?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/lib32-libxft-bgra?color=orange&style=flat-square)
 *   [libgaminggear](docs/libgaminggear/) Version: 0.15.1-9 ![AUR maintainer](https://img.shields.io/aur/maintainer/libgaminggear?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/libgaminggear?color=orange&style=flat-square)
 *   [libxft-bgra](docs/libxft-bgra/) Version: 2.3.3.r7.7808631e-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/libxft-bgra?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/libxft-bgra?color=orange&style=flat-square)
@@ -72,7 +71,9 @@
 *   [qt5-color-widgets](docs/qt5-color-widgets/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt5-color-widgets?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt5-color-widgets?color=orange&style=flat-square)
 *   [qt5-styleplugins](docs/qt5-styleplugins/) Version: 5.0.0.20170311-26 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt5-styleplugins?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt5-styleplugins?color=orange&style=flat-square)
 *   [qt6ct](docs/qt6ct/) Version: 0.2-4 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt6ct-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt6ct-git?color=orange&style=flat-square)
+*   [qt6ct-git](docs/qt6ct-git/) Version: 0.2+8+g0edb925-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt6ct-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt6ct-git?color=orange&style=flat-square)
 *   [qt6gtk2](docs/qt6gtk2/) Version: 0.1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt6gtk2?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt6gtk2?color=orange&style=flat-square)
+*   [qt6gtk2-git](docs/qt6gtk2-git/) Version: 0.1+4+g2ffb129-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt6gtk2-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt6gtk2-git?color=orange&style=flat-square)
 *   [recycle-cli](docs/recycle-cli/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/recycle-cli?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/recycle-cli?color=orange&style=flat-square)
 *   [roccat-tools-arvo](docs/roccat-tools-arvo/) Version: 5.9.0-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/roccat-tools-arvo?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/roccat-tools-arvo?color=orange&style=flat-square)
 *   [roccat-tools-common](docs/roccat-tools-common/) Version: 5.9.0-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/roccat-tools-common?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/roccat-tools-common?color=orange&style=flat-square)
@@ -129,4 +130,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)
-*   Last updated on: Mon 8th, Feb 2021 at 02:12:26PM
+*   Last updated on: Tue 9th, Feb 2021 at 02:23:32PM

@@ -16,10 +16,10 @@ pacman -Si *therepoclub/bpytop*
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 80.95 KiB
+<b>Download Size</b>   : 81.13 KiB
 <b>Installed Size</b>  : 252.22 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Thu 28 Jan 2021 19:30:13 GMT
+<b>Build Date</b>      : Tue 09 Feb 2021 13:58:17 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

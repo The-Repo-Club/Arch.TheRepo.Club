@@ -26,10 +26,10 @@ pacman -Si *therepoclub/bfetch*
                   xorg-xrandr: Resolution detection (Multi Monitor + Refresh rates)
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 123.81 KiB
+<b>Download Size</b>   : 124.04 KiB
 <b>Installed Size</b>  : 382.47 KiB
-<b>Packager</b>        : The-Repo-Club <wayne6324@gmail.com>
-<b>Build Date</b>      : Sun 24 Jan 2021 20:49:52 GMT
+<b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
+<b>Build Date</b>      : Tue 09 Feb 2021 13:57:56 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

@@ -16,10 +16,10 @@ pacman -Si *therepoclub/xtitle*
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : xtitle
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 20.80 KiB
+<b>Download Size</b>   : 21.81 KiB
 <b>Installed Size</b>  : 18.94 KiB
-<b>Packager</b>        : The-Repo-Club <wayne6324@gmail.com>
-<b>Build Date</b>      : Thu 07 Jan 2021 14:51:11 GMT
+<b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
+<b>Build Date</b>      : Tue 09 Feb 2021 14:14:16 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

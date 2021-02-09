@@ -18,7 +18,7 @@ pacman -Si *therepoclub/libgaminggear*
 <b>Replaces</b>        : None
 <b>Download Size</b>   : 147.72 KiB
 <b>Installed Size</b>  : 437.16 KiB
-<b>Packager</b>        : The-Repo-Club <wayne6324@gmail.com>
+<b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
 <b>Build Date</b>      : Tue 22 Sep 2020 18:02:35 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>

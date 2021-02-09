@@ -16,10 +16,10 @@ pacman -Si *therepoclub/qt-logout*
 <b>Optional Deps</b>   : multimonitorlock: default lock screen for qt-logout
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 18.17 KiB
+<b>Download Size</b>   : 18.39 KiB
 <b>Installed Size</b>  : 15.37 KiB
-<b>Packager</b>        : The-Repo-Club <wayne6324@gmail.com>
-<b>Build Date</b>      : Thu 21 Jan 2021 18:18:12 GMT
+<b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
+<b>Build Date</b>      : Tue 09 Feb 2021 14:12:30 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

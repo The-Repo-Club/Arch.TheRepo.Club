@@ -16,10 +16,10 @@ pacman -Si *therepoclub/picker*
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 45.79 KiB
+<b>Download Size</b>   : 45.99 KiB
 <b>Installed Size</b>  : 86.38 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Fri 05 Feb 2021 17:29:12 GMT
+<b>Build Date</b>      : Tue 09 Feb 2021 14:05:39 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

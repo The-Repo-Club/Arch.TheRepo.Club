@@ -18,7 +18,7 @@ pacman -Si *therepoclub/godot*
 <b>Replaces</b>        : None
 <b>Download Size</b>   : 27.56 MiB
 <b>Installed Size</b>  : 64.65 MiB
-<b>Packager</b>        : The-Repo-Club <wayne6324@gmail.com>
+<b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
 <b>Build Date</b>      : Mon 21 Sep 2020 17:14:42 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>

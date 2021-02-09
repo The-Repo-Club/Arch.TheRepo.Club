@@ -18,7 +18,7 @@ pacman -Si *therepoclub/lib32-libxft-bgra*
 <b>Replaces</b>        : None
 <b>Download Size</b>   : 60.28 KiB
 <b>Installed Size</b>  : 101.67 KiB
-<b>Packager</b>        : The-Repo-Club <wayne6324@gmail.com>
+<b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
 <b>Build Date</b>      : Wed 30 Dec 2020 16:00:38 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>

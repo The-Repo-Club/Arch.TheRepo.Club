@@ -16,10 +16,10 @@ pacman -Si *therepoclub/qt6ct*
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 193.81 KiB
-<b>Installed Size</b>  : 666.67 KiB
-<b>Packager</b>        : The-Repo-Club <wayne6324@gmail.com>
-<b>Build Date</b>      : Sun 03 Jan 2021 12:55:11 GMT
+<b>Download Size</b>   : 192.62 KiB
+<b>Installed Size</b>  : 665.17 KiB
+<b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
+<b>Build Date</b>      : Tue 09 Feb 2021 14:10:17 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

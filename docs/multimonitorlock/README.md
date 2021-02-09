@@ -17,10 +17,10 @@ pacman -Si *therepoclub/multimonitorlock*
                   multimonitorlock-gui: Allows the background to be changed
 <b>Conflicts With</b>  : multilockscreen-git  betterlockscreen  betterlockscreen-git
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 35.05 KiB
+<b>Download Size</b>   : 35.29 KiB
 <b>Installed Size</b>  : 55.23 KiB
-<b>Packager</b>        : The-Repo-Club <wayne6324@gmail.com>
-<b>Build Date</b>      : Thu 21 Jan 2021 17:54:10 GMT
+<b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
+<b>Build Date</b>      : Tue 09 Feb 2021 14:05:21 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

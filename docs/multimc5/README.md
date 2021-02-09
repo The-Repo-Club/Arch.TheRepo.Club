@@ -19,7 +19,7 @@ pacman -Si *therepoclub/multimc5*
 <b>Replaces</b>        : None
 <b>Download Size</b>   : 2.76 MiB
 <b>Installed Size</b>  : 6.49 MiB
-<b>Packager</b>        : The-Repo-Club <wayne6324@gmail.com>
+<b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
 <b>Build Date</b>      : Mon 19 Oct 2020 14:40:10 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>

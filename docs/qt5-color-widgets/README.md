@@ -17,10 +17,10 @@ pacman -Si *therepoclub/qt5-color-widgets*
                   qtcreator: for QtCreator integration
 <b>Conflicts With</b>  : qt-color-widgets-common
 <b>Replaces</b>        : qt5-color-picker
-<b>Download Size</b>   : 44.99 KiB
-<b>Installed Size</b>  : 113.91 KiB
-<b>Packager</b>        : The-Repo-Club <wayne6324@gmail.com>
-<b>Build Date</b>      : Thu 21 Jan 2021 17:59:31 GMT
+<b>Download Size</b>   : 45.29 KiB
+<b>Installed Size</b>  : 113.99 KiB
+<b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
+<b>Build Date</b>      : Tue 09 Feb 2021 14:06:30 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

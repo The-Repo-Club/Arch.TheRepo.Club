@@ -18,7 +18,7 @@ pacman -Si *therepoclub/qt6gtk2*
 <b>Replaces</b>        : None
 <b>Download Size</b>   : 146.36 KiB
 <b>Installed Size</b>  : 326.93 KiB
-<b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
+<b>Packager</b>        : The-Repo-Club <wayne6324@gmail.com>
 <b>Build Date</b>      : Thu 21 Jan 2021 18:03:16 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>

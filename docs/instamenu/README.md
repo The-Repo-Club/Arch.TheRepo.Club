@@ -8,7 +8,7 @@ pacman -Si *therepoclub/instamenu*
 <b>Version</b>         : 2021.02.07-1
 <b>Description</b>     : dmenu like menu with the Dracula theme
 <b>Architecture</b>    : any
-<b>URL</b>             : https://github.com/TheCynicalTeam/instamenu
+<b>URL</b>             : https://github.com/The-Repo-Club/instamenu
 <b>Licenses</b>        : CC BY-NC-SA 4.0
 <b>Groups</b>          : therepoclub
 <b>Provides</b>        : instamenu  dmenu

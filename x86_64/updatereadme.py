@@ -34,14 +34,14 @@ installme = open(home + '/.config/package-list','w')
 readme.write(f"# <img src='favicon.ico' width='64' height='64'> The Repo Club's Arch Repo <img src='favicon.ico' width='64' height='64'>\n")
 badges = f"\n<p align='center'>\n\
   <img src='https://img.shields.io/badge/Maintained-Yes-green?color=red&style=flat-square'>\n\
-  <img src='https://img.shields.io/github/last-commit/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square'>\n\
-  <img src='https://img.shields.io/github/repo-size/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square'>\n\
+  <img src='https://img.shields.io/github/last-commit/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>\n\
+  <img src='https://img.shields.io/github/repo-size/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>\n\
   <img src='https://img.shields.io/static/v1?label=Packages&message={pkgcount}&color=red&style=flat-square'>\n\
   <img src='https://img.shields.io/static/v1?label=License&message=CC%20BY-NC-SA%204.0&color=red&style=flat-square'>\n\
-  <img src='https://img.shields.io/github/issues/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square'>\n\
-  <img src='https://img.shields.io/github/stars/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square'>\n\
-  <img src='https://img.shields.io/github/forks/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square'>\n\
-  <img src='https://img.shields.io/github/commit-activity/m/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square'>\n\
+  <img src='https://img.shields.io/github/issues/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>\n\
+  <img src='https://img.shields.io/github/stars/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>\n\
+  <img src='https://img.shields.io/github/forks/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>\n\
+  <img src='https://img.shields.io/github/commit-activity/m/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>\n\
 </p>\n"
 readme.write(badges)
 readme.write(f"\n## Software\n")
@@ -105,7 +105,7 @@ for file in files:
         installme.write(f"{name}\n")
 
 multiline_addrepo = (f"\n## Add my repo\n"
-f"* **Maintainer:** [TheCynicalTeam](https://aur.archlinux.org/account/TheCynicalTeam/)\n"
+f"* **Maintainer:** [The-Repo-Club](https://aur.archlinux.org/account/The-Repo-Club/)\n"
 f"* **Description:**  A repository with some AUR packages that the team uses\n"
 f"* **Upstream page:** https://arch.therepo.club/\n"
 f"* **Key-ID:** 75A3 8DC6 84F1 A0B8 0891  8BCE E30E C2FB FB05 C44F \n"
@@ -118,7 +118,7 @@ readme.write(multiline_addrepo)
 
 multiline_showsupport = (f"\n## Show your support\n"
 f"\nGive a ⭐️ if this project helped you!\n"
-f"\nThis README was generated with ❤️ by [TheCynicalTeam](https://github.com/TheCynicalTeam/)\n"
+f"\nThis README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)\n"
 f"*   Last updated on: {datetime}\n")
 
 readme.write(multiline_showsupport)

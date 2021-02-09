@@ -20,7 +20,7 @@ pacman -Si *therepoclub/gtk4*
 <b>Replaces</b>        : gtk4-print-backends  gtk4-update-icon-cache
 <b>Download Size</b>   : 23.75 MiB
 <b>Installed Size</b>  : 60.23 MiB
-<b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
+<b>Packager</b>        : The-Repo-Club <wayne6324@gmail.com>
 <b>Build Date</b>      : Tue 29 Dec 2020 16:49:31 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>

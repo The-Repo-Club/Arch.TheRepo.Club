@@ -8,7 +8,7 @@ pacman -Si *therepoclub/qt5-color-widgets*
 <b>Version</b>         : 2021.01.01-1
 <b>Description</b>     : A user-friendly color dialog and several color-related widgets for Qt
 <b>Architecture</b>    : any
-<b>URL</b>             : https://github.com/TheCynicalTeam/qt5-color-widgets
+<b>URL</b>             : https://github.com/The-Repo-Club/qt5-color-widgets
 <b>Licenses</b>        : LGPL3
 <b>Groups</b>          : therepoclub
 <b>Provides</b>        : qt-color-widgets-common
@@ -19,7 +19,7 @@ pacman -Si *therepoclub/qt5-color-widgets*
 <b>Replaces</b>        : qt5-color-picker
 <b>Download Size</b>   : 44.99 KiB
 <b>Installed Size</b>  : 113.91 KiB
-<b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
+<b>Packager</b>        : The-Repo-Club <wayne6324@gmail.com>
 <b>Build Date</b>      : Thu 21 Jan 2021 17:59:31 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>

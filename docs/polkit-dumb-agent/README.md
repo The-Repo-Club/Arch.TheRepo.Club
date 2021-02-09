@@ -18,7 +18,7 @@ pacman -Si *therepoclub/polkit-dumb-agent*
 <b>Replaces</b>        : None
 <b>Download Size</b>   : 42.18 KiB
 <b>Installed Size</b>  : 75.75 KiB
-<b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
+<b>Packager</b>        : The-Repo-Club <wayne6324@gmail.com>
 <b>Build Date</b>      : Thu 21 Jan 2021 17:57:25 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>

@@ -18,7 +18,7 @@ pacman -Si *therepoclub/glow*
 <b>Replaces</b>        : None
 <b>Download Size</b>   : 6.28 MiB
 <b>Installed Size</b>  : 19.55 MiB
-<b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
+<b>Packager</b>        : The-Repo-Club <wayne6324@gmail.com>
 <b>Build Date</b>      : Sun 27 Dec 2020 13:04:02 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>

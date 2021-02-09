@@ -18,7 +18,7 @@ pacman -Si *therepoclub/checkupdates+aur*
 <b>Replaces</b>        : None
 <b>Download Size</b>   : 12.74 KiB
 <b>Installed Size</b>  : 0.33 KiB
-<b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
+<b>Packager</b>        : The-Repo-Club <wayne6324@gmail.com>
 <b>Build Date</b>      : Wed 02 Sep 2020 15:02:47 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>

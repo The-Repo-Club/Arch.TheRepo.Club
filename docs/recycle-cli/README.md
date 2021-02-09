@@ -8,7 +8,7 @@ pacman -Si *therepoclub/recycle-cli*
 <b>Version</b>         : 2021.01.01-1
 <b>Description</b>     : A recycle bin cli in python 3
 <b>Architecture</b>    : any
-<b>URL</b>             : https://github.com/TheCynicalTeam/recycle-cli/
+<b>URL</b>             : https://github.com/The-Repo-Club/recycle-cli/
 <b>Licenses</b>        : CC BY-NC-SA 4.0
 <b>Groups</b>          : therepoclub
 <b>Provides</b>        : None
@@ -18,7 +18,7 @@ pacman -Si *therepoclub/recycle-cli*
 <b>Replaces</b>        : None
 <b>Download Size</b>   : 16.59 KiB
 <b>Installed Size</b>  : 6.12 KiB
-<b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
+<b>Packager</b>        : The-Repo-Club <wayne6324@gmail.com>
 <b>Build Date</b>      : Thu 21 Jan 2021 18:05:23 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>

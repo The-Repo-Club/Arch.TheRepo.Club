@@ -8,7 +8,7 @@ pacman -Si *therepoclub/bfetch*
 <b>Version</b>         : 2021.01.24-1
 <b>Description</b>     : A CLI system information tool written in BASH that supports displaying images.
 <b>Architecture</b>    : any
-<b>URL</b>             : https://github.com/TheCynicalTeam/bfetch
+<b>URL</b>             : https://github.com/The-Repo-Club/bfetch
 <b>Licenses</b>        : CC BY-NC-SA 4.0
 <b>Groups</b>          : therepoclub
 <b>Provides</b>        : None
@@ -28,7 +28,7 @@ pacman -Si *therepoclub/bfetch*
 <b>Replaces</b>        : None
 <b>Download Size</b>   : 123.81 KiB
 <b>Installed Size</b>  : 382.47 KiB
-<b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
+<b>Packager</b>        : The-Repo-Club <wayne6324@gmail.com>
 <b>Build Date</b>      : Sun 24 Jan 2021 20:49:52 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>

@@ -8,7 +8,7 @@ pacman -Si *therepoclub/i3-swallow*
 <b>Version</b>         : 2021.01.01-2
 <b>Description</b>     : Swallow a terminal window after a blocking application is run in i3
 <b>Architecture</b>    : any
-<b>URL</b>             : https://github.com/TheCynicalTeam/i3-swallow
+<b>URL</b>             : https://github.com/The-Repo-Club/i3-swallow
 <b>Licenses</b>        : CC BY-NC-SA 4.0
 <b>Groups</b>          : therepoclub
 <b>Provides</b>        : None
@@ -18,7 +18,7 @@ pacman -Si *therepoclub/i3-swallow*
 <b>Replaces</b>        : None
 <b>Download Size</b>   : 28.45 KiB
 <b>Installed Size</b>  : 36.46 KiB
-<b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
+<b>Packager</b>        : The-Repo-Club <wayne6324@gmail.com>
 <b>Build Date</b>      : Sat 23 Jan 2021 11:33:01 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>

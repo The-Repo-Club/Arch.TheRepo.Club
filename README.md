@@ -2,14 +2,14 @@
 
 <p align='center'>
   <img src='https://img.shields.io/badge/Maintained-Yes-green?color=red&style=flat-square'>
-  <img src='https://img.shields.io/github/last-commit/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square'>
-  <img src='https://img.shields.io/github/repo-size/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square'>
+  <img src='https://img.shields.io/github/last-commit/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
+  <img src='https://img.shields.io/github/repo-size/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/static/v1?label=Packages&message=92&color=red&style=flat-square'>
   <img src='https://img.shields.io/static/v1?label=License&message=CC%20BY-NC-SA%204.0&color=red&style=flat-square'>
-  <img src='https://img.shields.io/github/issues/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square'>
-  <img src='https://img.shields.io/github/stars/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square'>
-  <img src='https://img.shields.io/github/forks/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square'>
-  <img src='https://img.shields.io/github/commit-activity/m/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square'>
+  <img src='https://img.shields.io/github/issues/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
+  <img src='https://img.shields.io/github/stars/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
+  <img src='https://img.shields.io/github/forks/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
+  <img src='https://img.shields.io/github/commit-activity/m/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
 </p>
 
 ## Software
@@ -107,7 +107,7 @@
 *   [xtitle](docs/xtitle/) Version: 20190826-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/xtitle?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/xtitle?color=orange&style=flat-square)
 
 ## Add my repo
-* **Maintainer:** [TheCynicalTeam](https://aur.archlinux.org/account/TheCynicalTeam/)
+* **Maintainer:** [The-Repo-Club](https://aur.archlinux.org/account/The-Repo-Club/)
 * **Description:**  A repository with some AUR packages that the team uses
 * **Upstream page:** https://arch.therepo.club/
 * **Key-ID:** 75A3 8DC6 84F1 A0B8 0891  8BCE E30E C2FB FB05 C44F 
@@ -128,5 +128,5 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 
 Give a ⭐️ if this project helped you!
 
-This README was generated with ❤️ by [TheCynicalTeam](https://github.com/TheCynicalTeam/)
+This README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)
 *   Last updated on: Mon 8th, Feb 2021 at 02:12:26PM

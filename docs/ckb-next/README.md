@@ -18,7 +18,7 @@ pacman -Si *therepoclub/ckb-next*
 <b>Replaces</b>        : None
 <b>Download Size</b>   : 1303.83 KiB
 <b>Installed Size</b>  : 2884.18 KiB
-<b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
+<b>Packager</b>        : The-Repo-Club <wayne6324@gmail.com>
 <b>Build Date</b>      : Sun 20 Dec 2020 13:40:43 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>

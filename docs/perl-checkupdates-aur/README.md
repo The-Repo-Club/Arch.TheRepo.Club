@@ -18,7 +18,7 @@ pacman -Si *therepoclub/perl-checkupdates-aur*
 <b>Replaces</b>        : None
 <b>Download Size</b>   : 24.49 KiB
 <b>Installed Size</b>  : 13.39 KiB
-<b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
+<b>Packager</b>        : The-Repo-Club <wayne6324@gmail.com>
 <b>Build Date</b>      : Wed 02 Sep 2020 15:02:43 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>

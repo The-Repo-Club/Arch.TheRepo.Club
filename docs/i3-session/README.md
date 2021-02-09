@@ -8,7 +8,7 @@ pacman -Si *therepoclub/i3-session*
 <b>Version</b>         : 2021.01.01-1
 <b>Description</b>     : Remembers what's running in your i3 workspaces by saving a session file
 <b>Architecture</b>    : any
-<b>URL</b>             : https://github.com/TheCynicalTeam/i3-session
+<b>URL</b>             : https://github.com/The-Repo-Club/i3-session
 <b>Licenses</b>        : CC BY-NC-SA 4.0
 <b>Groups</b>          : therepoclub
 <b>Provides</b>        : None
@@ -18,7 +18,7 @@ pacman -Si *therepoclub/i3-session*
 <b>Replaces</b>        : None
 <b>Download Size</b>   : 15.53 KiB
 <b>Installed Size</b>  : 2.51 KiB
-<b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
+<b>Packager</b>        : The-Repo-Club <wayne6324@gmail.com>
 <b>Build Date</b>      : Thu 21 Jan 2021 17:48:24 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>

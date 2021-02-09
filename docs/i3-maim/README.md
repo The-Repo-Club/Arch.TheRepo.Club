@@ -8,7 +8,7 @@ pacman -Si *therepoclub/i3-maim*
 <b>Version</b>         : 2021.01.01-1
 <b>Description</b>     : simple screenshot script using maim
 <b>Architecture</b>    : any
-<b>URL</b>             : https://github.com/TheCynicalTeam/i3-maim
+<b>URL</b>             : https://github.com/The-Repo-Club/i3-maim
 <b>Licenses</b>        : CC BY-NC-SA 4.0
 <b>Groups</b>          : therepoclub
 <b>Provides</b>        : None
@@ -18,7 +18,7 @@ pacman -Si *therepoclub/i3-maim*
 <b>Replaces</b>        : None
 <b>Download Size</b>   : 15.08 KiB
 <b>Installed Size</b>  : 1.69 KiB
-<b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
+<b>Packager</b>        : The-Repo-Club <wayne6324@gmail.com>
 <b>Build Date</b>      : Thu 21 Jan 2021 17:47:58 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>

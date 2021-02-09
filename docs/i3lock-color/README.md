@@ -18,7 +18,7 @@ pacman -Si *therepoclub/i3lock-color*
 <b>Replaces</b>        : None
 <b>Download Size</b>   : 66.62 KiB
 <b>Installed Size</b>  : 117.75 KiB
-<b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
+<b>Packager</b>        : The-Repo-Club <wayne6324@gmail.com>
 <b>Build Date</b>      : Mon 21 Dec 2020 13:53:48 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>

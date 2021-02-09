@@ -18,7 +18,7 @@ pacman -Si *therepoclub/python-gputil*
 <b>Replaces</b>        : None
 <b>Download Size</b>   : 26.38 KiB
 <b>Installed Size</b>  : 38.68 KiB
-<b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
+<b>Packager</b>        : The-Repo-Club <wayne6324@gmail.com>
 <b>Build Date</b>      : Mon 18 Jan 2021 16:02:49 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>

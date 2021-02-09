@@ -18,7 +18,7 @@ pacman -Si *therepoclub/guitar*
 <b>Replaces</b>        : None
 <b>Download Size</b>   : 840.53 KiB
 <b>Installed Size</b>  : 2156.04 KiB
-<b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
+<b>Packager</b>        : The-Repo-Club <wayne6324@gmail.com>
 <b>Build Date</b>      : Thu 07 Jan 2021 17:15:53 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>

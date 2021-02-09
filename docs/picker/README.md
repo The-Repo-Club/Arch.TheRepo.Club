@@ -8,7 +8,7 @@ pacman -Si *therepoclub/picker*
 <b>Version</b>         : 2021.02.05-1
 <b>Description</b>     : Bash wrapper for pacman and aur
 <b>Architecture</b>    : any
-<b>URL</b>             : https://github.com/TheCynicalTeam/picker
+<b>URL</b>             : https://github.com/The-Repo-Club/picker
 <b>Licenses</b>        : CC BY-NC-SA 4.0
 <b>Groups</b>          : therepoclub
 <b>Provides</b>        : picker

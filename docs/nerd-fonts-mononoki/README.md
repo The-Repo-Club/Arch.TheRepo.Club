@@ -18,7 +18,7 @@ pacman -Si *therepoclub/nerd-fonts-mononoki*
 <b>Replaces</b>        : None
 <b>Download Size</b>   : 2.22 MiB
 <b>Installed Size</b>  : 6.63 MiB
-<b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
+<b>Packager</b>        : The-Repo-Club <wayne6324@gmail.com>
 <b>Build Date</b>      : Wed 16 Dec 2020 11:44:56 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>

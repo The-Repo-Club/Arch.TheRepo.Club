@@ -8,7 +8,7 @@ pacman -Si *therepoclub/i3-cheat*
 <b>Version</b>         : 2021.01.17-1
 <b>Description</b>     : cheat sheet for i3wm
 <b>Architecture</b>    : any
-<b>URL</b>             : https://github.com/TheCynicalTeam/wm-cheat
+<b>URL</b>             : https://github.com/The-Repo-Club/wm-cheat
 <b>Licenses</b>        : CC BY-NC-SA 4.0
 <b>Groups</b>          : therepoclub
 <b>Provides</b>        : None
@@ -18,7 +18,7 @@ pacman -Si *therepoclub/i3-cheat*
 <b>Replaces</b>        : None
 <b>Download Size</b>   : 18.28 KiB
 <b>Installed Size</b>  : 9.70 KiB
-<b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
+<b>Packager</b>        : The-Repo-Club <wayne6324@gmail.com>
 <b>Build Date</b>      : Thu 21 Jan 2021 17:47:15 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>

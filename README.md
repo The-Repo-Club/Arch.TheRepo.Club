@@ -4,7 +4,7 @@
   <img src='https://img.shields.io/badge/Maintained-Yes-green?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/last-commit/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/repo-size/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
-  <img src='https://img.shields.io/static/v1?label=Packages&message=93&color=red&style=flat-square'>
+  <img src='https://img.shields.io/static/v1?label=Packages&message=94&color=red&style=flat-square'>
   <img src='https://img.shields.io/static/v1?label=License&message=CC%20BY-NC-SA%204.0&color=red&style=flat-square'>
   <img src='https://img.shields.io/github/issues/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/stars/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
@@ -59,6 +59,7 @@
 *   [nerd-fonts-source-code-pro](docs/nerd-fonts-source-code-pro/) Version: 2.1.0-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/nerd-fonts-source-code-pro?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/nerd-fonts-source-code-pro?color=orange&style=flat-square)
 *   [opendoas-sudo](docs/opendoas-sudo/) Version: 1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/opendoas-sudo?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/opendoas-sudo?color=orange&style=flat-square)
 *   [papirus-folders](docs/papirus-folders/) Version: 1.8.0-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/papirus-folders?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/papirus-folders?color=orange&style=flat-square)
+*   [papirus-folders-doas](docs/papirus-folders-doas/) Version: 1.8.0-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/papirus-folders-doas?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/papirus-folders-doas?color=orange&style=flat-square)
 *   [paru](docs/paru/) Version: 1.2.2-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/paru?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/paru?color=orange&style=flat-square)
 *   [perl-checkupdates-aur](docs/perl-checkupdates-aur/) Version: 0.04-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/perl-checkupdates-aur?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/perl-checkupdates-aur?color=orange&style=flat-square)
 *   [perl-www-aur](docs/perl-www-aur/) Version: 0.22-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/perl-www-aur?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/perl-www-aur?color=orange&style=flat-square)
@@ -70,7 +71,7 @@
 *   [qt-logout](docs/qt-logout/) Version: 2021.01.02-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt-logout?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt-logout?color=orange&style=flat-square)
 *   [qt5-color-widgets](docs/qt5-color-widgets/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt5-color-widgets?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt5-color-widgets?color=orange&style=flat-square)
 *   [qt5-styleplugins](docs/qt5-styleplugins/) Version: 5.0.0.20170311-26 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt5-styleplugins?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt5-styleplugins?color=orange&style=flat-square)
-*   [qt6ct](docs/qt6ct/) Version: 0.2-4 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt6ct-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt6ct-git?color=orange&style=flat-square)
+*   [qt6ct](docs/qt6ct/) Version: 0.2-5 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt6ct-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt6ct-git?color=orange&style=flat-square)
 *   [qt6ct-git](docs/qt6ct-git/) Version: 0.2+8+g0edb925-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt6ct-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt6ct-git?color=orange&style=flat-square)
 *   [qt6gtk2](docs/qt6gtk2/) Version: 0.1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt6gtk2?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt6gtk2?color=orange&style=flat-square)
 *   [qt6gtk2-git](docs/qt6gtk2-git/) Version: 0.1+4+g2ffb129-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt6gtk2-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt6gtk2-git?color=orange&style=flat-square)
@@ -130,4 +131,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)
-*   Last updated on: Tue 9th, Feb 2021 at 02:23:32PM
+*   Last updated on: Tue 9th, Feb 2021 at 02:37:11PM

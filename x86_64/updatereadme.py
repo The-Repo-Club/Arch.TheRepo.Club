@@ -49,24 +49,20 @@ readme.write(f"\n## Software\n")
 def get_file_name(file):
     awk1 = "awk '{print $0}'"
     awk2 = "awk '{$1=$2=\"\"; print $0}'"
-    command = f"bsdtar -xOf {file} | {awk1} | grep -I pkgname | {awk2}"
+    command = f"bsdtar -xOf {file} | {awk1} | grep -I pkgname | {awk2} | sed -n 1p"
     process = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=None, shell=True)
     output = process.communicate()
     name = str(output[0].decode()).strip()
-    splitted = name.split()
-    name = splitted[0]
 
     return name
 
 def get_file_version(file):
     awk1 = "awk '{print $0}'"
     awk2 = "awk '{$1=$2=\"\"; print $0}'"
-    command = f"bsdtar -xOf {file} | {awk1} | grep -I pkgver | {awk2}"
+    command = f"bsdtar -xOf {file} | {awk1} | grep -I pkgver | {awk2} | sed -n 1p"
     process = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=None, shell=True)
     output = process.communicate()
     version = str(output[0].decode()).strip()
-    splitted = version.split()
-    version = splitted[0]
 
     return version
 

@@ -16,10 +16,10 @@ pacman -Si *therepoclub/drill-search-cli*
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 1033.84 KiB
+<b>Download Size</b>   : 1033.88 KiB
 <b>Installed Size</b>  : 3785.86 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sun 28 Feb 2021 12:23:04 GMT
+<b>Build Date</b>      : Sun 28 Feb 2021 12:30:59 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

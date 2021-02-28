@@ -4,8 +4,8 @@ pacman -Si *therepoclub/minecraft-launcher*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/minecraft-launcher-2.2.1867-1-x86_64.pkg.tar.zst">minecraft-launcher</a>
-<b>Version</b>         : 2.2.1867-1
+<b>Name</b>            : <a href="../../x86_64/minecraft-launcher-2.2.2012-1-x86_64.pkg.tar.zst">minecraft-launcher</a>
+<b>Version</b>         : 2.2.2012-1
 <b>Description</b>     : Official Minecraft Launcher
 <b>Architecture</b>    : x86_64
 <b>URL</b>             : https://mojang.com/
@@ -16,10 +16,10 @@ pacman -Si *therepoclub/minecraft-launcher*
 <b>Optional Deps</b>   : flite: narrator support
 <b>Conflicts With</b>  : minecraft-launcher-beta
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 72.20 MiB
-<b>Installed Size</b>  : 177.88 MiB
+<b>Download Size</b>   : 72.08 MiB
+<b>Installed Size</b>  : 177.72 MiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sun 21 Feb 2021 16:54:54 GMT
+<b>Build Date</b>      : Sun 28 Feb 2021 12:44:57 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

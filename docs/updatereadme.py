@@ -51,7 +51,7 @@ def get_file_version(file, name):
     return version
 
 for file in files:
-    ignore = open("../ignorepackages", "r").read().splitlines() 
+    ignore = open("../ignorepackages", "r").read().splitlines()
     name = str(get_file_name(file))
     if name not in ignore:
         name = str(get_file_name(file))
@@ -60,7 +60,7 @@ for file in files:
             name = str(get_file_name(file))
         if not version:
             version = str(get_file_version(file, name))
-    
+
         print(f"File Updated: ({name})")
         file_name = f'{name}/README.md'
         if not os.path.exists(os.path.dirname(file_name)):

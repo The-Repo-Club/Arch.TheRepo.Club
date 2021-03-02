@@ -94,7 +94,7 @@ for file in files:
         if not version:
             version = str(get_file_version(file))
 
-        print(f"File Updated: ({name} v{version})")
+        print(f"File Updated: Name ({name}), Version ({version})")
         aur_name = get_aur_name(name)
 
         readme.write(f"*   [{name}](docs/{name}/) Version: {version} ![AUR maintainer](https://img.shields.io/aur/maintainer/{aur_name}?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/{aur_name}?color=orange&style=flat-square)\n")

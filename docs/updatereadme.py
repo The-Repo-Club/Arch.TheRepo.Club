@@ -22,7 +22,17 @@ def get_file_name(file):
 
     return name
 
-def get_file_version(file, name):
+def get_file_version(file):
+    awk1 = "awk '{print $0}'"
+    awk2 = "awk '{$1=$2=\"\"; print $0}'"
+    command = f"bsdtar -xOf {file} | {awk1} | grep -I pkgver | {awk2} | sed -n 1p"
+    process = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=None, shell=True)
+    output = process.communicate()
+    version = str(output[0].decode()).strip()
+
+    return version
+
+def get_file_info(file, name):
     command = f"pacman -Si therepoclub/{name}"
     process = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=None, shell=True)
     output = process.communicate()
@@ -55,13 +65,16 @@ for file in files:
     name = str(get_file_name(file))
     if name not in ignore:
         name = str(get_file_name(file))
-        version = str(get_file_version(file, name))
+        version = str(get_file_version(file))
+        info = str(get_file_info(file, name))
         if not name:
             name = str(get_file_name(file))
         if not version:
-            version = str(get_file_version(file, name))
+            version = str(get_file_version(file))
+        if not info:
+            info = str(get_file_info(file, name))
 
-        print(f"File Updated: ({name})")
+        print(f"File Updated: Name ({name}), Version ({version})")
         file_name = f'{name}/README.md'
         if not os.path.exists(os.path.dirname(file_name)):
             os.makedirs(os.path.dirname(file_name))
@@ -70,7 +83,7 @@ for file in files:
         readme.write(f"\npacman -Si *therepoclub/{name}*\n")
         highlight = '<div class="highlight"><pre class="highlight"><text>'
         readme.write(f"\n{highlight}\n")
-        readme.write(f"{version}")
+        readme.write(f"{info}")
         text = '</text></pre></div>'
         readme.write(f"\n{text}\n")
         readme.write(f"\n## How to install from therepoclub\n")

@@ -4,7 +4,7 @@
   <img src='https://img.shields.io/badge/Maintained-Yes-green?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/last-commit/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/repo-size/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
-  <img src='https://img.shields.io/static/v1?label=Packages&message=90&color=red&style=flat-square'>
+  <img src='https://img.shields.io/static/v1?label=Packages&message=89&color=red&style=flat-square'>
   <img src='https://img.shields.io/static/v1?label=License&message=CC%20BY-NC-SA%204.0&color=red&style=flat-square'>
   <img src='https://img.shields.io/github/issues/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/stars/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
@@ -31,7 +31,6 @@
 *   [gamehub](docs/gamehub/) Version: 0.16.0.1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/gamehub?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/gamehub?color=orange&style=flat-square)
 *   [glow](docs/glow/) Version: 1.3.0-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/glow?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/glow?color=orange&style=flat-square)
 *   [godot](docs/godot/) Version: 3.2.3-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/godot-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/godot-git?color=orange&style=flat-square)
-*   [gtk4](docs/gtk4/) Version: 4.0.0-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/gtk4-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/gtk4-git?color=orange&style=flat-square)
 *   [guitar](docs/guitar/) Version: 1.2.0-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/guitar?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/guitar?color=orange&style=flat-square)
 *   [i3-cheat](docs/i3-cheat/) Version: 2021.01.17-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/i3-cheat?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/i3-cheat?color=orange&style=flat-square)
 *   [i3-maim](docs/i3-maim/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/i3-maim?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/i3-maim?color=orange&style=flat-square)
@@ -127,4 +126,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)
-*   Last updated on: Tue 2nd, Mar 2021 at 05:36:20PM
+*   Last updated on: Sun 7th, Mar 2021 at 10:29:13AM

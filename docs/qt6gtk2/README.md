@@ -16,10 +16,10 @@ pacman -Si *therepoclub/qt6gtk2*
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : qt6gtk2-git
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 147.01 KiB
-<b>Installed Size</b>  : 326.01 KiB
+<b>Download Size</b>   : 143.97 KiB
+<b>Installed Size</b>  : 317.90 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Tue 09 Feb 2021 14:12:02 GMT
+<b>Build Date</b>      : Fri 19 Mar 2021 17:23:43 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

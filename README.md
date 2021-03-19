@@ -4,7 +4,7 @@
   <img src='https://img.shields.io/badge/Maintained-Yes-green?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/last-commit/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/repo-size/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
-  <img src='https://img.shields.io/static/v1?label=Packages&message=90&color=red&style=flat-square'>
+  <img src='https://img.shields.io/static/v1?label=Packages&message=86&color=red&style=flat-square'>
   <img src='https://img.shields.io/static/v1?label=License&message=CC%20BY-NC-SA%204.0&color=red&style=flat-square'>
   <img src='https://img.shields.io/github/issues/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/stars/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
@@ -44,8 +44,7 @@
 *   [lib32-libxft-bgra](docs/lib32-libxft-bgra/) Version: 2.3.3.r7.7808631e-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/lib32-libxft-bgra?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/lib32-libxft-bgra?color=orange&style=flat-square)
 *   [libgaminggear](docs/libgaminggear/) Version: 0.15.1-9 ![AUR maintainer](https://img.shields.io/aur/maintainer/libgaminggear?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/libgaminggear?color=orange&style=flat-square)
 *   [libxft-bgra](docs/libxft-bgra/) Version: 2.3.3.r7.7808631e-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/libxft-bgra?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/libxft-bgra?color=orange&style=flat-square)
-*   [minecraft-launcher](docs/minecraft-launcher/) Version: 915-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/minecraft-launcher?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/minecraft-launcher?color=orange&style=flat-square)
-*   [multimc5](docs/multimc5/) Version: 0.6.11-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/multimc5?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/multimc5?color=orange&style=flat-square)
+*   [minecraft-launcher](docs/minecraft-launcher/) Version: 921-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/minecraft-launcher?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/minecraft-launcher?color=orange&style=flat-square)
 *   [multimonitorlock](docs/multimonitorlock/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/multimonitorlock?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/multimonitorlock?color=orange&style=flat-square)
 *   [multimonitorlock-gui](docs/multimonitorlock-gui/) Version: 2021.01.02-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/multimonitorlock-gui?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/multimonitorlock-gui?color=orange&style=flat-square)
 *   [nbteditor](docs/nbteditor/) Version: 1.3-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/nbteditor-bin?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/nbteditor-bin?color=orange&style=flat-square)
@@ -66,10 +65,7 @@
 *   [qt-logout](docs/qt-logout/) Version: 2021.01.02-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt-logout?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt-logout?color=orange&style=flat-square)
 *   [qt5-color-widgets](docs/qt5-color-widgets/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt5-color-widgets?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt5-color-widgets?color=orange&style=flat-square)
 *   [qt5-styleplugins](docs/qt5-styleplugins/) Version: 5.0.0.20170311-26 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt5-styleplugins?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt5-styleplugins?color=orange&style=flat-square)
-*   [qt6ct](docs/qt6ct/) Version: 0.2-5 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt6ct-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt6ct-git?color=orange&style=flat-square)
-*   [qt6ct-git](docs/qt6ct-git/) Version: 0.2+8+g0edb925-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt6ct-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt6ct-git?color=orange&style=flat-square)
 *   [qt6gtk2](docs/qt6gtk2/) Version: 0.1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt6gtk2?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt6gtk2?color=orange&style=flat-square)
-*   [qt6gtk2-git](docs/qt6gtk2-git/) Version: 0.1+4+g2ffb129-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt6gtk2-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt6gtk2-git?color=orange&style=flat-square)
 *   [recycle-cli](docs/recycle-cli/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/recycle-cli?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/recycle-cli?color=orange&style=flat-square)
 *   [roccat-tools-arvo](docs/roccat-tools-arvo/) Version: 5.9.0-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/roccat-tools-arvo?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/roccat-tools-arvo?color=orange&style=flat-square)
 *   [roccat-tools-common](docs/roccat-tools-common/) Version: 5.9.0-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/roccat-tools-common?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/roccat-tools-common?color=orange&style=flat-square)
@@ -127,4 +123,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)
-*   Last updated on: Mon 15th, Mar 2021 at 04:05:53PM
+*   Last updated on: Fri 19th, Mar 2021 at 05:32:12PM

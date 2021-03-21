@@ -4,7 +4,7 @@
   <img src='https://img.shields.io/badge/Maintained-Yes-green?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/last-commit/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/repo-size/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
-  <img src='https://img.shields.io/static/v1?label=Packages&message=89&color=red&style=flat-square'>
+  <img src='https://img.shields.io/static/v1?label=Packages&message=88&color=red&style=flat-square'>
   <img src='https://img.shields.io/static/v1?label=License&message=CC%20BY-NC-SA%204.0&color=red&style=flat-square'>
   <img src='https://img.shields.io/github/issues/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/stars/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
@@ -42,7 +42,6 @@
 *   [instamenu](docs/instamenu/) Version: 2021.02.07-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/instamenu?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/instamenu?color=orange&style=flat-square)
 *   [instamenu-extra](docs/instamenu-extra/) Version: 2021.03.14-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/instamenu-extra?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/instamenu-extra?color=orange&style=flat-square)
 *   [instamenu-schemas](docs/instamenu-schemas/) Version: 2021.01.10-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/instamenu-schemas?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/instamenu-schemas?color=orange&style=flat-square)
-*   [lazygit](docs/lazygit/) Version: 0.25.1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/lazygit-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/lazygit-git?color=orange&style=flat-square)
 *   [lib32-libxft-bgra](docs/lib32-libxft-bgra/) Version: 2.3.3.r7.7808631e-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/lib32-libxft-bgra?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/lib32-libxft-bgra?color=orange&style=flat-square)
 *   [libgaminggear](docs/libgaminggear/) Version: 0.15.1-9 ![AUR maintainer](https://img.shields.io/aur/maintainer/libgaminggear?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/libgaminggear?color=orange&style=flat-square)
 *   [libxft-bgra](docs/libxft-bgra/) Version: 2.3.3.r7.7808631e-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/libxft-bgra?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/libxft-bgra?color=orange&style=flat-square)
@@ -126,4 +125,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)
-*   Last updated on: Sun 21st, Mar 2021 at 02:12:14PM
+*   Last updated on: Sun 21st, Mar 2021 at 02:16:38PM

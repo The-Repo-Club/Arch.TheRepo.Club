@@ -41,7 +41,7 @@
 *   [imagewriter](docs/imagewriter/) Version: 1.10.1432200249.1d253d9-16 ![AUR maintainer](https://img.shields.io/aur/maintainer/imagewriter?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/imagewriter?color=orange&style=flat-square)
 *   [instamenu](docs/instamenu/) Version: 2021.02.07-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/instamenu?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/instamenu?color=orange&style=flat-square)
 *   [instamenu-extra](docs/instamenu-extra/) Version: 2021.03.14-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/instamenu-extra?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/instamenu-extra?color=orange&style=flat-square)
-*   [instamenu-schemas](docs/instamenu-schemas/) Version: 2021.01.10-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/instamenu-schemas?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/instamenu-schemas?color=orange&style=flat-square)
+*   [instamenu-schemas](docs/instamenu-schemas/) Version: 2021.03.21-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/instamenu-schemas?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/instamenu-schemas?color=orange&style=flat-square)
 *   [lib32-libxft-bgra](docs/lib32-libxft-bgra/) Version: 2.3.3.r7.7808631e-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/lib32-libxft-bgra?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/lib32-libxft-bgra?color=orange&style=flat-square)
 *   [libgaminggear](docs/libgaminggear/) Version: 0.15.1-9 ![AUR maintainer](https://img.shields.io/aur/maintainer/libgaminggear?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/libgaminggear?color=orange&style=flat-square)
 *   [libxft-bgra](docs/libxft-bgra/) Version: 2.3.3.r7.7808631e-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/libxft-bgra?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/libxft-bgra?color=orange&style=flat-square)
@@ -125,4 +125,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)
-*   Last updated on: Sun 21st, Mar 2021 at 02:16:38PM
+*   Last updated on: Sun 21st, Mar 2021 at 04:49:44PM

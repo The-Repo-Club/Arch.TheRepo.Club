@@ -4,8 +4,8 @@ pacman -Si *therepoclub/ckb-next*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/ckb-next-0.4.3-1-x86_64.pkg.tar.zst">ckb-next</a>
-<b>Version</b>         : 0.4.3-1
+<b>Name</b>            : <a href="../../x86_64/ckb-next-0.4.4-1-x86_64.pkg.tar.zst">ckb-next</a>
+<b>Version</b>         : 0.4.4-1
 <b>Description</b>     : Corsair Keyboard and Mouse Input Driver, release version
 <b>Architecture</b>    : x86_64
 <b>URL</b>             : https://github.com/ckb-next/ckb-next
@@ -16,10 +16,10 @@ pacman -Si *therepoclub/ckb-next*
 <b>Optional Deps</b>   : libpulse
 <b>Conflicts With</b>  : ckb-git  ckb-git-latest  ckb-next-git
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 1303.83 KiB
-<b>Installed Size</b>  : 2884.18 KiB
-<b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
-<b>Build Date</b>      : Sun 20 Dec 2020 13:40:43 GMT
+<b>Download Size</b>   : 1309.97 KiB
+<b>Installed Size</b>  : 2889.95 KiB
+<b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
+<b>Build Date</b>      : Sun 21 Mar 2021 14:08:25 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

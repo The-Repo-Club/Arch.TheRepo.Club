@@ -4,7 +4,7 @@
   <img src='https://img.shields.io/badge/Maintained-Yes-green?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/last-commit/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/repo-size/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
-  <img src='https://img.shields.io/static/v1?label=Packages&message=66&color=red&style=flat-square'>
+  <img src='https://img.shields.io/static/v1?label=Packages&message=62&color=red&style=flat-square'>
   <img src='https://img.shields.io/static/v1?label=License&message=CC%20BY-NC-SA%204.0&color=red&style=flat-square'>
   <img src='https://img.shields.io/github/issues/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/stars/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
@@ -16,7 +16,6 @@
 *   [anymeal](docs/anymeal/) Version: 1.13-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/anymeal?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/anymeal?color=orange&style=flat-square)
 *   [auracle](docs/auracle/) Version: r366.8739929-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/auracle-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/auracle-git?color=orange&style=flat-square)
 *   [aurutils](docs/aurutils/) Version: 3.1.2-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/aurutils?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/aurutils?color=orange&style=flat-square)
-*   [autotiling](docs/autotiling/) Version: 1.4-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/autotiling?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/autotiling?color=orange&style=flat-square)
 *   [autotiling](docs/autotiling/) Version: 1.5-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/autotiling?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/autotiling?color=orange&style=flat-square)
 *   [bfetch](docs/bfetch/) Version: 2021.01.24-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/bfetch?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/bfetch?color=orange&style=flat-square)
 *   [bspwm-cheat](docs/bspwm-cheat/) Version: 2021.01.17-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/bspwm-cheat?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/bspwm-cheat?color=orange&style=flat-square)
@@ -31,7 +30,6 @@
 *   [drill-search-gtk](docs/drill-search-gtk/) Version: 2.1.1-10 ![AUR maintainer](https://img.shields.io/aur/maintainer/drill-search-gtk?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/drill-search-gtk?color=orange&style=flat-square)
 *   [duf](docs/duf/) Version: 0.6.0-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/duf?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/duf?color=orange&style=flat-square)
 *   [gamehub](docs/gamehub/) Version: 0.16.0.1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/gamehub?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/gamehub?color=orange&style=flat-square)
-*   [glow](docs/glow/) Version: 1.4.0-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/glow?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/glow?color=orange&style=flat-square)
 *   [glow](docs/glow/) Version: 1.4.0-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/glow?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/glow?color=orange&style=flat-square)
 *   [godot](docs/godot/) Version: 3.2.3-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/godot-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/godot-git?color=orange&style=flat-square)
 *   [guitar](docs/guitar/) Version: 1.2.0-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/guitar?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/guitar?color=orange&style=flat-square)
@@ -40,7 +38,6 @@
 *   [i3-session](docs/i3-session/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/i3-session?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/i3-session?color=orange&style=flat-square)
 *   [i3-swallow](docs/i3-swallow/) Version: 2021.01.01-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/i3-swallow?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/i3-swallow?color=orange&style=flat-square)
 *   [i3lock-color](docs/i3lock-color/) Version: 2.13.c.2-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/i3lock-color?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/i3lock-color?color=orange&style=flat-square)
-*   [imagewriter](docs/imagewriter/) Version: 1.10.1432200249.1d253d9-16 ![AUR maintainer](https://img.shields.io/aur/maintainer/imagewriter?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/imagewriter?color=orange&style=flat-square)
 *   [imagewriter](docs/imagewriter/) Version: 1.10.1432200249.1d253d9-18 ![AUR maintainer](https://img.shields.io/aur/maintainer/imagewriter?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/imagewriter?color=orange&style=flat-square)
 *   [instamenu](docs/instamenu/) Version: 2021.02.07-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/instamenu?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/instamenu?color=orange&style=flat-square)
 *   [instamenu-extra](docs/instamenu-extra/) Version: 2021.03.14-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/instamenu-extra?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/instamenu-extra?color=orange&style=flat-square)
@@ -71,7 +68,6 @@
 *   [qt6gtk2](docs/qt6gtk2/) Version: 0.1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt6gtk2?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt6gtk2?color=orange&style=flat-square)
 *   [recycle-cli](docs/recycle-cli/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/recycle-cli?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/recycle-cli?color=orange&style=flat-square)
 *   [siji](docs/siji/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/siji?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/siji?color=orange&style=flat-square)
-*   [timeshift](docs/timeshift/) Version: 20.11.1+3+g08d0e59-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/timeshift?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/timeshift?color=orange&style=flat-square)
 *   [timeshift](docs/timeshift/) Version: 20.11.1+3+g08d0e59-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/timeshift?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/timeshift?color=orange&style=flat-square)
 *   [touchpad-indicator](docs/touchpad-indicator/) Version: 2021.01.17-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/touchpad-indicator-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/touchpad-indicator-git?color=orange&style=flat-square)
 *   [tty-clock](docs/tty-clock/) Version: 2.3-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/tty-clock?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/tty-clock?color=orange&style=flat-square)
@@ -103,4 +99,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)
-*   Last updated on: Wed 31st, Mar 2021 at 08:09:22PM
+*   Last updated on: Wed 31st, Mar 2021 at 08:14:44PM

@@ -4,8 +4,8 @@ pacman -Si *therepoclub/imagewriter*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/imagewriter-1.10.1432200249.1d253d9-16-x86_64.pkg.tar.zst">imagewriter</a>
-<b>Version</b>         : 1.10.1432200249.1d253d9-16
+<b>Name</b>            : <a href="../../x86_64/imagewriter-1.10.1432200249.1d253d9-18-x86_64.pkg.tar.zst">imagewriter</a>
+<b>Version</b>         : 1.10.1432200249.1d253d9-18
 <b>Description</b>     : A graphical utility for writing raw disk images & hybrid isos to USB keys
 <b>Architecture</b>    : x86_64
 <b>URL</b>             : https://github.com/openSUSE/imagewriter
@@ -16,10 +16,10 @@ pacman -Si *therepoclub/imagewriter*
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 134.34 KiB
+<b>Download Size</b>   : 134.41 KiB
 <b>Installed Size</b>  : 225.47 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sun 21 Mar 2021 14:09:15 GMT
+<b>Build Date</b>      : Wed 31 Mar 2021 20:07:09 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

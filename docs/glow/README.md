@@ -4,22 +4,22 @@ pacman -Si *therepoclub/glow*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/glow-1.4.0-1-x86_64.pkg.tar.zst">glow</a>
-<b>Version</b>         : 1.4.0-1
+<b>Name</b>            : <a href="../../x86_64/glow-1.4.0-3-x86_64.pkg.tar.zst">glow</a>
+<b>Version</b>         : 1.4.0-3
 <b>Description</b>     : Markdown renderer for the CLI
 <b>Architecture</b>    : x86_64
 <b>URL</b>             : https://github.com/charmbracelet/glow
 <b>Licenses</b>        : MIT
 <b>Groups</b>          : None
 <b>Provides</b>        : None
-<b>Depends On</b>      : None
+<b>Depends On</b>      : glibc
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 5.93 MiB
-<b>Installed Size</b>  : 21.43 MiB
+<b>Download Size</b>   : 5.94 MiB
+<b>Installed Size</b>  : 21.42 MiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Mon 15 Mar 2021 15:59:03 GMT
+<b>Build Date</b>      : Wed 31 Mar 2021 19:57:28 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

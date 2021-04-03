@@ -16,10 +16,10 @@ pacman -Si *therepoclub/i3-maim*
 <b>Optional Deps</b>   : xclip: Allow screenshots to be saved to clipboard
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 15.43 KiB
+<b>Download Size</b>   : 15.42 KiB
 <b>Installed Size</b>  : 1.94 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sat 03 Apr 2021 13:09:11 BST
+<b>Build Date</b>      : Sat 03 Apr 2021 13:11:21 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

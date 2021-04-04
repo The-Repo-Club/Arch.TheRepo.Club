@@ -4,7 +4,7 @@ pacman -Si *therepoclub/duf*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/duf-0.6.0-1-x86_64.pkg.tar.zst">duf</a>
+<b>Name</b>            : <a href="../../x86_64/duf-0.6.2-1-x86_64.pkg.tar.zst">duf</a>
 <b>Version</b>         : 0.6.0-1
 <b>Description</b>     : Disk Usage/Free Utility
 <b>Architecture</b>    : x86_64

@@ -28,7 +28,7 @@
 *   [dracula-gtk-theme](docs/dracula-gtk-theme/) Version: v2.0-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/dracula-gtk-theme?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/dracula-gtk-theme?color=orange&style=flat-square)
 *   [drill-search-cli](docs/drill-search-cli/) Version: 2.1.1-10 ![AUR maintainer](https://img.shields.io/aur/maintainer/drill-search-cli?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/drill-search-cli?color=orange&style=flat-square)
 *   [drill-search-gtk](docs/drill-search-gtk/) Version: 2.1.1-10 ![AUR maintainer](https://img.shields.io/aur/maintainer/drill-search-gtk?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/drill-search-gtk?color=orange&style=flat-square)
-*   [duf](docs/duf/) Version: 0.6.0-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/duf?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/duf?color=orange&style=flat-square)
+*   [duf](docs/duf/) Version: 0.6.2-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/duf?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/duf?color=orange&style=flat-square)
 *   [gamehub](docs/gamehub/) Version: 0.16.0.1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/gamehub?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/gamehub?color=orange&style=flat-square)
 *   [glow](docs/glow/) Version: 1.4.0-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/glow?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/glow?color=orange&style=flat-square)
 *   [godot](docs/godot/) Version: 3.2.3-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/godot-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/godot-git?color=orange&style=flat-square)
@@ -99,4 +99,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)
-*   Last updated on: Sat 3rd, Apr 2021 at 04:50:48PM
+*   Last updated on: Sun 4th, Apr 2021 at 03:16:57PM

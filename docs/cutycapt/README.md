@@ -19,7 +19,7 @@ pacman -Si *therepoclub/cutycapt*
 <b>Download Size</b>   : 41.13 KiB
 <b>Installed Size</b>  : 70.43 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Mon 05 Apr 2021 16:16:57 BST
+<b>Build Date</b>      : Mon 05 Apr 2021 18:20:41 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

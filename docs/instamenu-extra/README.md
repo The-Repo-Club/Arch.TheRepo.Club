@@ -4,8 +4,8 @@ pacman -Si *therepoclub/instamenu-extra*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/instamenu-extra-2021.04.05-1-any.pkg.tar.zst">instamenu-extra</a>
-<b>Version</b>         : 2021.04.05-1
+<b>Name</b>            : <a href="../../x86_64/instamenu-extra-2021.04.06-1-any.pkg.tar.zst">instamenu-extra</a>
+<b>Version</b>         : 2021.04.06-1
 <b>Description</b>     : addons for instamenu
 <b>Architecture</b>    : any
 <b>URL</b>             : https://github.com/The-Repo-Club/instamenu-extra
@@ -16,10 +16,10 @@ pacman -Si *therepoclub/instamenu-extra*
 <b>Optional Deps</b>   : cutycapt: Taking screenshots with bm command.
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 74.40 KiB
-<b>Installed Size</b>  : 184.26 KiB
+<b>Download Size</b>   : 74.45 KiB
+<b>Installed Size</b>  : 183.75 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Mon 05 Apr 2021 16:26:40 BST
+<b>Build Date</b>      : Tue 06 Apr 2021 18:01:30 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

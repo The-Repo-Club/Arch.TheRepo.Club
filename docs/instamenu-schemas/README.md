@@ -17,9 +17,9 @@ pacman -Si *therepoclub/instamenu-schemas*
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
 <b>Download Size</b>   : 15.79 KiB
-<b>Installed Size</b>  : 1.89 KiB
+<b>Installed Size</b>  : 1.90 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Tue 06 Apr 2021 18:03:33 BST
+<b>Build Date</b>      : Tue 06 Apr 2021 20:21:23 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

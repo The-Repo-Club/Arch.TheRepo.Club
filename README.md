@@ -33,7 +33,7 @@
 *   [gamehub](docs/gamehub/) Version: 0.16.0.1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/gamehub?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/gamehub?color=orange&style=flat-square)
 *   [glow](docs/glow/) Version: 1.4.0-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/glow?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/glow?color=orange&style=flat-square)
 *   [godot](docs/godot/) Version: 3.2.3-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/godot-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/godot-git?color=orange&style=flat-square)
-*   [](docs//) Version: 1.2.0-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/?color=orange&style=flat-square)
+*   [guitar](docs/guitar/) Version: 1.2.0-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/guitar?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/guitar?color=orange&style=flat-square)
 *   [i3-cheat](docs/i3-cheat/) Version: 2021.01.17-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/i3-cheat?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/i3-cheat?color=orange&style=flat-square)
 *   [i3-maim](docs/i3-maim/) Version: 2021.04.03-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/i3-maim?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/i3-maim?color=orange&style=flat-square)
 *   [i3-session](docs/i3-session/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/i3-session?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/i3-session?color=orange&style=flat-square)
@@ -101,4 +101,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)
-*   Last updated on: Tue 6th, Apr 2021 at 06:08:50PM
+*   Last updated on: Tue 6th, Apr 2021 at 08:23:02PM

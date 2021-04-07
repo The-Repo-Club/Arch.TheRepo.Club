@@ -4,22 +4,22 @@ pacman -Si *therepoclub/multimonitorlock-gui*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/multimonitorlock-gui-2021.01.02-1-any.pkg.tar.zst">multimonitorlock-gui</a>
-<b>Version</b>         : 2021.01.02-1
+<b>Name</b>            : <a href="../../x86_64/multimonitorlock-gui-2021.04.07-1-any.pkg.tar.zst">multimonitorlock-gui</a>
+<b>Version</b>         : 2021.04.07-1
 <b>Description</b>     : GUI for multimonitorlock to set the background using QT6 and pyside6
 <b>Architecture</b>    : any
 <b>URL</b>             : https://github.com/The-Repo-Club/multimonitorlock-gui
 <b>Licenses</b>        : CC BY-NC-SA 4.0
 <b>Groups</b>          : therepoclub
 <b>Provides</b>        : None
-<b>Depends On</b>      : pyside6  multimonitorlock  gtk-engine-murrine
+<b>Depends On</b>      : pyside2  multimonitorlock
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 18.32 KiB
-<b>Installed Size</b>  : 10.93 KiB
+<b>Download Size</b>   : 18.11 KiB
+<b>Installed Size</b>  : 10.49 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Tue 09 Feb 2021 14:05:30 GMT
+<b>Build Date</b>      : Wed 07 Apr 2021 20:59:59 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

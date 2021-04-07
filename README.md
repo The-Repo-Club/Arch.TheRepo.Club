@@ -47,7 +47,7 @@
 *   [libxft-bgra](docs/libxft-bgra/) Version: 2.3.3.r7.7808631e-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/libxft-bgra?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/libxft-bgra?color=orange&style=flat-square)
 *   [minecraft-launcher](docs/minecraft-launcher/) Version: 921-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/minecraft-launcher?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/minecraft-launcher?color=orange&style=flat-square)
 *   [multimonitorlock](docs/multimonitorlock/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/multimonitorlock?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/multimonitorlock?color=orange&style=flat-square)
-*   [multimonitorlock-gui](docs/multimonitorlock-gui/) Version: 2021.01.02-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/multimonitorlock-gui?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/multimonitorlock-gui?color=orange&style=flat-square)
+*   [multimonitorlock-gui](docs/multimonitorlock-gui/) Version: 2021.04.07-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/multimonitorlock-gui?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/multimonitorlock-gui?color=orange&style=flat-square)
 *   [nbteditor](docs/nbteditor/) Version: 1.3-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/nbteditor-bin?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/nbteditor-bin?color=orange&style=flat-square)
 *   [nerd-fonts-fira-code](docs/nerd-fonts-fira-code/) Version: 2.1.0-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/nerd-fonts-fira-code?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/nerd-fonts-fira-code?color=orange&style=flat-square)
 *   [nerd-fonts-hack](docs/nerd-fonts-hack/) Version: 2.1.0-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/nerd-fonts-hack?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/nerd-fonts-hack?color=orange&style=flat-square)
@@ -63,7 +63,7 @@
 *   [pyfetch](docs/pyfetch/) Version: 2021.01.18-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/pyfetch?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/pyfetch?color=orange&style=flat-square)
 *   [python-gputil](docs/python-gputil/) Version: 1.4.0-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/python-gputil?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/python-gputil?color=orange&style=flat-square)
 *   [python-i3-py](docs/python-i3-py/) Version: 0.6.7-7 ![AUR maintainer](https://img.shields.io/aur/maintainer/python-i3-py?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/python-i3-py?color=orange&style=flat-square)
-*   [qt-logout](docs/qt-logout/) Version: 2021.01.02-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt-logout?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt-logout?color=orange&style=flat-square)
+*   [qt-logout](docs/qt-logout/) Version: 2021.04.07-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt-logout?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt-logout?color=orange&style=flat-square)
 *   [qt5-color-widgets](docs/qt5-color-widgets/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt5-color-widgets?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt5-color-widgets?color=orange&style=flat-square)
 *   [qt5-styleplugins](docs/qt5-styleplugins/) Version: 5.0.0.20170311-26 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt5-styleplugins?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt5-styleplugins?color=orange&style=flat-square)
 *   [qt6gtk2](docs/qt6gtk2/) Version: 0.1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt6gtk2?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt6gtk2?color=orange&style=flat-square)
@@ -101,4 +101,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)
-*   Last updated on: Tue 6th, Apr 2021 at 10:02:48PM
+*   Last updated on: Wed 7th, Apr 2021 at 09:08:34PM

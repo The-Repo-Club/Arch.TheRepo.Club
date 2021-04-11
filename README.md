@@ -18,7 +18,7 @@
 *   [auracle](docs/auracle/) Version: r366.8739929-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/auracle-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/auracle-git?color=orange&style=flat-square)
 *   [aurutils](docs/aurutils/) Version: 3.1.2-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/aurutils?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/aurutils?color=orange&style=flat-square)
 *   [autotiling](docs/autotiling/) Version: 1.5-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/autotiling?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/autotiling?color=orange&style=flat-square)
-*   [bfetch](docs/bfetch/) Version: 2021.01.24-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/bfetch?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/bfetch?color=orange&style=flat-square)
+*   [bfetch](docs/bfetch/) Version: 2021.04.12-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/bfetch?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/bfetch?color=orange&style=flat-square)
 *   [bspwm-cheat](docs/bspwm-cheat/) Version: 2021.01.17-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/bspwm-cheat?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/bspwm-cheat?color=orange&style=flat-square)
 *   [bumblebee-status](docs/bumblebee-status/) Version: 2.1.1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/bumblebee-status?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/bumblebee-status?color=orange&style=flat-square)
 *   [checkupdates+aur](docs/checkupdates+aur/) Version: 1-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/checkupdates+aur?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/checkupdates+aur?color=orange&style=flat-square)
@@ -48,7 +48,7 @@
 *   [minecraft-launcher](docs/minecraft-launcher/) Version: 921-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/minecraft-launcher?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/minecraft-launcher?color=orange&style=flat-square)
 *   [multimonitorlock](docs/multimonitorlock/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/multimonitorlock?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/multimonitorlock?color=orange&style=flat-square)
 *   [multimonitorlock-gui](docs/multimonitorlock-gui/) Version: 2021.04.07-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/multimonitorlock-gui?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/multimonitorlock-gui?color=orange&style=flat-square)
-*   [nbteditor](docs/nbteditor/) Version: 1.3-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/nbteditor-bin?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/nbteditor-bin?color=orange&style=flat-square)
+*   [](docs//) Version: 1.3-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/?color=orange&style=flat-square)
 *   [nerd-fonts-fira-code](docs/nerd-fonts-fira-code/) Version: 2.1.0-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/nerd-fonts-fira-code?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/nerd-fonts-fira-code?color=orange&style=flat-square)
 *   [nerd-fonts-hack](docs/nerd-fonts-hack/) Version: 2.1.0-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/nerd-fonts-hack?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/nerd-fonts-hack?color=orange&style=flat-square)
 *   [nerd-fonts-iosevka](docs/nerd-fonts-iosevka/) Version: 2.1.0-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/nerd-fonts-iosevka?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/nerd-fonts-iosevka?color=orange&style=flat-square)
@@ -101,4 +101,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)
-*   Last updated on: Sun 11th, Apr 2021 at 03:30:35PM
+*   Last updated on: Sun 11th, Apr 2021 at 10:53:06PM

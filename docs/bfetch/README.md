@@ -4,8 +4,8 @@ pacman -Si *therepoclub/bfetch*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/bfetch-2021.01.24-1-any.pkg.tar.zst">bfetch</a>
-<b>Version</b>         : 2021.01.24-1
+<b>Name</b>            : <a href="../../x86_64/bfetch-2021.04.12-1-any.pkg.tar.zst">bfetch</a>
+<b>Version</b>         : 2021.04.12-1
 <b>Description</b>     : A CLI system information tool written in BASH that supports displaying images.
 <b>Architecture</b>    : any
 <b>URL</b>             : https://github.com/The-Repo-Club/bfetch
@@ -26,10 +26,10 @@ pacman -Si *therepoclub/bfetch*
                   xorg-xrandr: Resolution detection (Multi Monitor + Refresh rates)
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 124.04 KiB
-<b>Installed Size</b>  : 382.47 KiB
+<b>Download Size</b>   : 123.94 KiB
+<b>Installed Size</b>  : 382.48 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Tue 09 Feb 2021 13:57:56 GMT
+<b>Build Date</b>      : Sun 11 Apr 2021 22:50:35 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

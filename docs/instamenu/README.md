@@ -12,14 +12,14 @@ pacman -Si *therepoclub/instamenu*
 <b>Licenses</b>        : CC BY-NC-SA 4.0
 <b>Groups</b>          : therepoclub
 <b>Provides</b>        : instamenu  dmenu
-<b>Depends On</b>      : sh  libxinerama  libxft  noto-fonts-emoji  ttf-joypixels  siji  cantarell-fonts  nerd-fonts-fira-code  instamenu-schemas
+<b>Depends On</b>      : sh  perl  libxinerama  libxft  noto-fonts-emoji  ttf-joypixels  siji  cantarell-fonts  nerd-fonts-fira-code  instamenu-schemas
 <b>Optional Deps</b>   : instamenu-extra: Extra script that instamenu can use
 <b>Conflicts With</b>  : dmenu
 <b>Replaces</b>        : dmenu
-<b>Download Size</b>   : 54.58 KiB
+<b>Download Size</b>   : 54.61 KiB
 <b>Installed Size</b>  : 157.89 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sat 17 Apr 2021 19:09:17 BST
+<b>Build Date</b>      : Sat 17 Apr 2021 19:49:30 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

@@ -16,10 +16,10 @@ pacman -Si *therepoclub/instamenu-extra*
 <b>Optional Deps</b>   : cutycapt: Taking screenshots with bm command.
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 73.99 KiB
+<b>Download Size</b>   : 74.26 KiB
 <b>Installed Size</b>  : 183.75 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sat 10 Apr 2021 16:07:47 BST
+<b>Build Date</b>      : Sat 17 Apr 2021 16:48:26 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

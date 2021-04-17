@@ -16,10 +16,10 @@ pacman -Si *therepoclub/instamenu*
 <b>Optional Deps</b>   : instamenu-extra: Extra script that instamenu can use
 <b>Conflicts With</b>  : dmenu
 <b>Replaces</b>        : dmenu
-<b>Download Size</b>   : 54.61 KiB
-<b>Installed Size</b>  : 157.89 KiB
+<b>Download Size</b>   : 59.28 KiB
+<b>Installed Size</b>  : 172.42 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sat 17 Apr 2021 19:49:30 BST
+<b>Build Date</b>      : Sat 17 Apr 2021 20:37:49 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Repo update script using repo-add, rsync, and git
-# written by Nathaniel Maia for ArchLabs, December 2017
+# written by TheRepoClub for arch.therepo.club.
 
 readonly RPATH="$(cd "$(dirname "$0")" || exit ; pwd -P)"
 readonly ARCHDIR="$(basename "$RPATH")"
@@ -17,12 +17,10 @@ commit_repo() {
     cd "$REPO_PATH/$ARCHDIR" || return
     rm -f therepoclub.*
     repo-add --sign therepoclub.db.tar.gz ./*.pkg.tar.zst
-    rm -f therepoclub.db
-    rm -f therepoclub.db.sig
+    rm -f therepoclub.db therepoclub.db.sig
     cp -f therepoclub.db.tar.gz therepoclub.db
     cp -f therepoclub.db.tar.gz.sig therepoclub.db.sig
-    rm -f therepoclub.files
-    rm -f therepoclub.files.sig
+    rm -f therepoclub.files therepoclub.files.sig
     cp -f therepoclub.files.tar.gz therepoclub.files
     cp -f therepoclub.files.tar.gz.sig therepoclub.files.sig
 }

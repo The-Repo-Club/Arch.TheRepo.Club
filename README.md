@@ -14,7 +14,7 @@
 
 ## Software
 *   [adwaita-qt](docs/adwaita-qt/) Version: 1.2.1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/adwaita-qt?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/adwaita-qt?color=orange&style=flat-square)
-*   [anymeal](docs/anymeal/) Version: 1.13-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/anymeal?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/anymeal?color=orange&style=flat-square)
+*   [anymeal](docs/anymeal/) Version:  ![AUR maintainer](https://img.shields.io/aur/maintainer/anymeal?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/anymeal?color=orange&style=flat-square)
 *   [auracle](docs/auracle/) Version: r366.8739929-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/auracle-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/auracle-git?color=orange&style=flat-square)
 *   [aurutils](docs/aurutils/) Version: 3.1.2-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/aurutils?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/aurutils?color=orange&style=flat-square)
 *   [autotiling](docs/autotiling/) Version: 1.5-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/autotiling?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/autotiling?color=orange&style=flat-square)
@@ -64,7 +64,7 @@
 *   [pyfetch](docs/pyfetch/) Version: 2021.01.18-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/pyfetch?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/pyfetch?color=orange&style=flat-square)
 *   [python-gputil](docs/python-gputil/) Version: 1.4.0-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/python-gputil?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/python-gputil?color=orange&style=flat-square)
 *   [python-i3-py](docs/python-i3-py/) Version: 0.6.7-7 ![AUR maintainer](https://img.shields.io/aur/maintainer/python-i3-py?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/python-i3-py?color=orange&style=flat-square)
-*   [](docs//) Version: 2021.04.12-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/?color=orange&style=flat-square)
+*   [qt-logout](docs/qt-logout/) Version: 2021.04.12-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt-logout?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt-logout?color=orange&style=flat-square)
 *   [qt5-color-widgets](docs/qt5-color-widgets/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt5-color-widgets?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt5-color-widgets?color=orange&style=flat-square)
 *   [qt5-styleplugins](docs/qt5-styleplugins/) Version: 5.0.0.20170311-26 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt5-styleplugins?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt5-styleplugins?color=orange&style=flat-square)
 *   [qt6gtk2](docs/qt6gtk2/) Version: 0.1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt6gtk2?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt6gtk2?color=orange&style=flat-square)
@@ -105,4 +105,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)
-*   Last updated on: Sat 17th, Apr 2021 at 07:29:25PM
+*   Last updated on: Sat 17th, Apr 2021 at 07:31:07PM

@@ -4,7 +4,7 @@
   <img src='https://img.shields.io/badge/Maintained-Yes-green?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/last-commit/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/repo-size/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
-  <img src='https://img.shields.io/static/v1?label=Packages&message=68&color=red&style=flat-square'>
+  <img src='https://img.shields.io/static/v1?label=Packages&message=70&color=red&style=flat-square'>
   <img src='https://img.shields.io/static/v1?label=License&message=CC%20BY-NC-SA%204.0&color=red&style=flat-square'>
   <img src='https://img.shields.io/github/issues/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/stars/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
@@ -24,7 +24,7 @@
 *   [checkupdates+aur](docs/checkupdates+aur/) Version: 1-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/checkupdates+aur?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/checkupdates+aur?color=orange&style=flat-square)
 *   [checkupdates-aur](docs/checkupdates-aur/) Version: 0.04-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/checkupdates-aur?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/checkupdates-aur?color=orange&style=flat-square)
 *   [ckb-next](docs/ckb-next/) Version: 0.4.4-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/ckb-next?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/ckb-next?color=orange&style=flat-square)
-*   [ckbcomp](docs/ckbcomp/) Version: 1.199-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/ckbcomp?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/ckbcomp?color=orange&style=flat-square)
+*   [ckbcomp](docs/ckbcomp/) Version: 1.202-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/ckbcomp?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/ckbcomp?color=orange&style=flat-square)
 *   [colorgrab](docs/colorgrab/) Version: 0.3-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/colorgrab?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/colorgrab?color=orange&style=flat-square)
 *   [cutycapt](docs/cutycapt/) Version: 2021.04.04-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/cutycapt?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/cutycapt?color=orange&style=flat-square)
 *   [dracula-gtk-theme](docs/dracula-gtk-theme/) Version: v2.0-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/dracula-gtk-theme?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/dracula-gtk-theme?color=orange&style=flat-square)
@@ -56,6 +56,7 @@
 *   [nerd-fonts-mononoki](docs/nerd-fonts-mononoki/) Version: 2.1.0-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/nerd-fonts-mononoki?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/nerd-fonts-mononoki?color=orange&style=flat-square)
 *   [nerd-fonts-roboto-mono](docs/nerd-fonts-roboto-mono/) Version: 2.1.0-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/nerd-fonts-roboto-mono?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/nerd-fonts-roboto-mono?color=orange&style=flat-square)
 *   [nerd-fonts-source-code-pro](docs/nerd-fonts-source-code-pro/) Version: 2.1.0-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/nerd-fonts-source-code-pro?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/nerd-fonts-source-code-pro?color=orange&style=flat-square)
+*   [octopi](docs/octopi/) Version: 0.11.0-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/octopi?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/octopi?color=orange&style=flat-square)
 *   [paru](docs/paru/) Version: 1.5.1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/paru?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/paru?color=orange&style=flat-square)
 *   [perl-checkupdates-aur](docs/perl-checkupdates-aur/) Version: 0.04-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/perl-checkupdates-aur?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/perl-checkupdates-aur?color=orange&style=flat-square)
 *   [perl-www-aur](docs/perl-www-aur/) Version: 0.22-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/perl-www-aur?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/perl-www-aur?color=orange&style=flat-square)
@@ -71,6 +72,7 @@
 *   [recycle-cli](docs/recycle-cli/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/recycle-cli?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/recycle-cli?color=orange&style=flat-square)
 *   [siji](docs/siji/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/siji?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/siji?color=orange&style=flat-square)
 *   [timeshift](docs/timeshift/) Version: 20.11.1+3+g08d0e59-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/timeshift?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/timeshift?color=orange&style=flat-square)
+*   [timeshift-autosnap](docs/timeshift-autosnap/) Version: 0.9-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/timeshift-autosnap?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/timeshift-autosnap?color=orange&style=flat-square)
 *   [touchpad-indicator](docs/touchpad-indicator/) Version: 2021.01.17-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/touchpad-indicator-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/touchpad-indicator-git?color=orange&style=flat-square)
 *   [transset-df](docs/transset-df/) Version: 6-6 ![AUR maintainer](https://img.shields.io/aur/maintainer/transset-df?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/transset-df?color=orange&style=flat-square)
 *   [ttf-remixicon](docs/ttf-remixicon/) Version: 2.5.0-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/ttf-remixicon?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/ttf-remixicon?color=orange&style=flat-square)
@@ -105,4 +107,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)
-*   Last updated on: Sun 18th, Apr 2021 at 04:36:39PM
+*   Last updated on: Sat 24th, Apr 2021 at 07:23:13PM

@@ -16,10 +16,10 @@ pacman -Si *therepoclub/auracle*
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : auracle
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 375.27 KiB
-<b>Installed Size</b>  : 829.21 KiB
+<b>Download Size</b>   : 403.76 KiB
+<b>Installed Size</b>  : 898.74 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Tue 09 Feb 2021 13:56:09 GMT
+<b>Build Date</b>      : Sun 25 Apr 2021 14:42:04 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

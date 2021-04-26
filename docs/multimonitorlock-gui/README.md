@@ -4,8 +4,8 @@ pacman -Si *therepoclub/multimonitorlock-gui*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/multimonitorlock-gui-2021.04.07-1-any.pkg.tar.zst">multimonitorlock-gui</a>
-<b>Version</b>         : 2021.04.07-1
+<b>Name</b>            : <a href="../../x86_64/multimonitorlock-gui-2021.04.26-1-any.pkg.tar.zst">multimonitorlock-gui</a>
+<b>Version</b>         : 2021.04.26-1
 <b>Description</b>     : GUI for multimonitorlock to set the background using QT6 and pyside6
 <b>Architecture</b>    : any
 <b>URL</b>             : https://github.com/The-Repo-Club/multimonitorlock-gui
@@ -16,10 +16,10 @@ pacman -Si *therepoclub/multimonitorlock-gui*
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 18.11 KiB
-<b>Installed Size</b>  : 10.49 KiB
+<b>Download Size</b>   : 16.39 KiB
+<b>Installed Size</b>  : 17.25 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Wed 07 Apr 2021 20:59:59 BST
+<b>Build Date</b>      : Mon 26 Apr 2021 18:21:07 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

@@ -43,7 +43,7 @@
 *   [instamenu](docs/instamenu/) Version: 2021.04.18-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/instamenu?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/instamenu?color=orange&style=flat-square)
 *   [instamenu-extra](docs/instamenu-extra/) Version: 2021.04.10-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/instamenu-extra?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/instamenu-extra?color=orange&style=flat-square)
 *   [instamenu-schemas](docs/instamenu-schemas/) Version: 2021.04.17-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/instamenu-schemas?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/instamenu-schemas?color=orange&style=flat-square)
-*   [instawm](docs/instawm/) Version: 2021.04.15-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/instawm?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/instawm?color=orange&style=flat-square)
+*   [instawm](docs/instawm/) Version: 2021.04.27-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/instawm?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/instawm?color=orange&style=flat-square)
 *   [instawm-schemas](docs/instawm-schemas/) Version: 2021.04.17-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/instawm-schemas?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/instawm-schemas?color=orange&style=flat-square)
 *   [lf](docs/lf/) Version: 22-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/lf?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/lf?color=orange&style=flat-square)
 *   [lib32-libxft-bgra](docs/lib32-libxft-bgra/) Version: 2.3.3.r7.7808631e-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/lib32-libxft-bgra?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/lib32-libxft-bgra?color=orange&style=flat-square)
@@ -109,4 +109,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)
-*   Last updated on: Tue 27th, Apr 2021 at 06:54:18PM
+*   Last updated on: Tue 27th, Apr 2021 at 08:06:42PM

@@ -4,7 +4,7 @@
   <img src='https://img.shields.io/badge/Maintained-Yes-green?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/last-commit/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/repo-size/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
-  <img src='https://img.shields.io/static/v1?label=Packages&message=71&color=red&style=flat-square'>
+  <img src='https://img.shields.io/static/v1?label=Packages&message=72&color=red&style=flat-square'>
   <img src='https://img.shields.io/static/v1?label=License&message=CC%20BY-NC-SA%204.0&color=red&style=flat-square'>
   <img src='https://img.shields.io/github/issues/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/stars/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
@@ -14,6 +14,7 @@
 
 ## Software
 *   [adwaita-qt](docs/adwaita-qt/) Version: 1.2.1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/adwaita-qt?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/adwaita-qt?color=orange&style=flat-square)
+*   [alpm_octopi_utils](docs/alpm_octopi_utils/) Version: 1.0.2-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/alpm_octopi_utils?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/alpm_octopi_utils?color=orange&style=flat-square)
 *   [anymeal](docs/anymeal/) Version: 1.13-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/anymeal?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/anymeal?color=orange&style=flat-square)
 *   [auracle](docs/auracle/) Version: r366.8739929-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/auracle-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/auracle-git?color=orange&style=flat-square)
 *   [aurutils](docs/aurutils/) Version: 3.1.2-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/aurutils?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/aurutils?color=orange&style=flat-square)
@@ -108,4 +109,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)
-*   Last updated on: Mon 26th, Apr 2021 at 08:31:34PM
+*   Last updated on: Tue 27th, Apr 2021 at 06:54:18PM

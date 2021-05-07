@@ -4,7 +4,7 @@
   <img src='https://img.shields.io/badge/Maintained-Yes-green?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/last-commit/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/repo-size/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
-  <img src='https://img.shields.io/static/v1?label=Packages&message=72&color=red&style=flat-square'>
+  <img src='https://img.shields.io/static/v1?label=Packages&message=68&color=red&style=flat-square'>
   <img src='https://img.shields.io/static/v1?label=License&message=CC%20BY-NC-SA%204.0&color=red&style=flat-square'>
   <img src='https://img.shields.io/github/issues/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/stars/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
@@ -28,13 +28,12 @@
 *   [ckbcomp](docs/ckbcomp/) Version: 1.202-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/ckbcomp?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/ckbcomp?color=orange&style=flat-square)
 *   [colorgrab](docs/colorgrab/) Version: 0.3-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/colorgrab?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/colorgrab?color=orange&style=flat-square)
 *   [cutycapt](docs/cutycapt/) Version: 2021.04.04-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/cutycapt?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/cutycapt?color=orange&style=flat-square)
-*   [](docs//) Version: v2.0-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/?color=orange&style=flat-square)
+*   [dracula-gtk-theme](docs/dracula-gtk-theme/) Version: v2.0-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/dracula-gtk-theme?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/dracula-gtk-theme?color=orange&style=flat-square)
 *   [drill-search-cli](docs/drill-search-cli/) Version: 2.1.1-10 ![AUR maintainer](https://img.shields.io/aur/maintainer/drill-search-cli?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/drill-search-cli?color=orange&style=flat-square)
 *   [drill-search-gtk](docs/drill-search-gtk/) Version: 2.1.1-10 ![AUR maintainer](https://img.shields.io/aur/maintainer/drill-search-gtk?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/drill-search-gtk?color=orange&style=flat-square)
 *   [duf](docs/duf/) Version: 0.6.2-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/duf?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/duf?color=orange&style=flat-square)
 *   [gamehub](docs/gamehub/) Version: 0.16.0.1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/gamehub?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/gamehub?color=orange&style=flat-square)
 *   [glow](docs/glow/) Version: 1.4.1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/glow?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/glow?color=orange&style=flat-square)
-*   [grub2-theme-archlinux](docs/grub2-theme-archlinux/) Version: 1.0-4 ![AUR maintainer](https://img.shields.io/aur/maintainer/grub2-theme-archlinux?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/grub2-theme-archlinux?color=orange&style=flat-square)
 *   [guitar](docs/guitar/) Version: 1.2.0-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/guitar?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/guitar?color=orange&style=flat-square)
 *   [i3-cheat](docs/i3-cheat/) Version: 2021.01.17-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/i3-cheat?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/i3-cheat?color=orange&style=flat-square)
 *   [i3-session](docs/i3-session/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/i3-session?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/i3-session?color=orange&style=flat-square)
@@ -68,9 +67,6 @@
 *   [python-gputil](docs/python-gputil/) Version: 1.4.0-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/python-gputil?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/python-gputil?color=orange&style=flat-square)
 *   [python-i3-py](docs/python-i3-py/) Version: 0.6.7-7 ![AUR maintainer](https://img.shields.io/aur/maintainer/python-i3-py?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/python-i3-py?color=orange&style=flat-square)
 *   [qt-logout](docs/qt-logout/) Version: 2021.05.06-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt-logout?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt-logout?color=orange&style=flat-square)
-*   [qt5-color-widgets](docs/qt5-color-widgets/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt5-color-widgets?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt5-color-widgets?color=orange&style=flat-square)
-*   [qt5-styleplugins](docs/qt5-styleplugins/) Version: 5.0.0.20170311-26 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt5-styleplugins?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt5-styleplugins?color=orange&style=flat-square)
-*   [qt6gtk2](docs/qt6gtk2/) Version: 0.1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt6gtk2?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt6gtk2?color=orange&style=flat-square)
 *   [recycle-cli](docs/recycle-cli/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/recycle-cli?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/recycle-cli?color=orange&style=flat-square)
 *   [siji](docs/siji/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/siji?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/siji?color=orange&style=flat-square)
 *   [timeshift](docs/timeshift/) Version: 20.11.1+3+g08d0e59-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/timeshift?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/timeshift?color=orange&style=flat-square)
@@ -109,4 +105,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)
-*   Last updated on: Thu 6th, May 2021 at 06:28:31PM
+*   Last updated on: Fri 7th, May 2021 at 03:03:56PM

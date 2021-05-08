@@ -4,8 +4,8 @@ pacman -Si *therepoclub/instamenu-extra*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/instamenu-extra-2021.04.10-1-any.pkg.tar.zst">instamenu-extra</a>
-<b>Version</b>         : 2021.04.10-1
+<b>Name</b>            : <a href="../../x86_64/instamenu-extra-2021.05.08-1-any.pkg.tar.zst">instamenu-extra</a>
+<b>Version</b>         : 2021.05.08-1
 <b>Description</b>     : addons for instamenu
 <b>Architecture</b>    : any
 <b>URL</b>             : https://github.com/The-Repo-Club/instamenu-extra
@@ -14,12 +14,13 @@ pacman -Si *therepoclub/instamenu-extra*
 <b>Provides</b>        : instamenu-extra
 <b>Depends On</b>      : bash  systemd  glib2  autorandr  instamenu  instamenu-schemas  python>=3.4  python-gobject
 <b>Optional Deps</b>   : cutycapt: Taking screenshots with bm command.
+                  paru: Using the aur with pacman script.
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 74.26 KiB
-<b>Installed Size</b>  : 183.75 KiB
+<b>Download Size</b>   : 71.14 KiB
+<b>Installed Size</b>  : 186.37 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sat 17 Apr 2021 16:48:26 BST
+<b>Build Date</b>      : Sat 08 May 2021 20:44:32 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

@@ -4,7 +4,7 @@
   <img src='https://img.shields.io/badge/Maintained-Yes-green?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/last-commit/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/repo-size/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
-  <img src='https://img.shields.io/static/v1?label=Packages&message=70&color=red&style=flat-square'>
+  <img src='https://img.shields.io/static/v1?label=Packages&message=71&color=red&style=flat-square'>
   <img src='https://img.shields.io/static/v1?label=License&message=CC%20BY-NC-SA%204.0&color=red&style=flat-square'>
   <img src='https://img.shields.io/github/issues/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/stars/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
@@ -40,6 +40,7 @@
 *   [i3-session](docs/i3-session/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/i3-session?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/i3-session?color=orange&style=flat-square)
 *   [i3-swallow](docs/i3-swallow/) Version: 2021.01.01-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/i3-swallow?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/i3-swallow?color=orange&style=flat-square)
 *   [i3lock-color](docs/i3lock-color/) Version: 2.13.c.2-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/i3lock-color?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/i3lock-color?color=orange&style=flat-square)
+*   [instaaur](docs/instaaur/) Version: 2021.05.10-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/instaaur?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/instaaur?color=orange&style=flat-square)
 *   [instamenu](docs/instamenu/) Version: 2021.04.18-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/instamenu?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/instamenu?color=orange&style=flat-square)
 *   [instamenu-extra](docs/instamenu-extra/) Version: 2021.05.08-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/instamenu-extra?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/instamenu-extra?color=orange&style=flat-square)
 *   [instamenu-schemas](docs/instamenu-schemas/) Version: 2021.04.17-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/instamenu-schemas?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/instamenu-schemas?color=orange&style=flat-square)
@@ -49,7 +50,7 @@
 *   [lib32-libxft-bgra](docs/lib32-libxft-bgra/) Version: 2.3.3.r7.7808631e-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/lib32-libxft-bgra?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/lib32-libxft-bgra?color=orange&style=flat-square)
 *   [libxft-bgra](docs/libxft-bgra/) Version: 2.3.3.r7.7808631e-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/libxft-bgra?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/libxft-bgra?color=orange&style=flat-square)
 *   [minecraft-launcher](docs/minecraft-launcher/) Version: 921-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/minecraft-launcher?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/minecraft-launcher?color=orange&style=flat-square)
-*   [multimonitorlock](docs/multimonitorlock/) Version:  ![AUR maintainer](https://img.shields.io/aur/maintainer/multimonitorlock?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/multimonitorlock?color=orange&style=flat-square)
+*   [multimonitorlock](docs/multimonitorlock/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/multimonitorlock?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/multimonitorlock?color=orange&style=flat-square)
 *   [multimonitorlock-gui](docs/multimonitorlock-gui/) Version: 2021.04.26-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/multimonitorlock-gui?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/multimonitorlock-gui?color=orange&style=flat-square)
 *   [nbteditor](docs/nbteditor/) Version: 1.3-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/nbteditor-bin?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/nbteditor-bin?color=orange&style=flat-square)
 *   [nerd-fonts-fira-code](docs/nerd-fonts-fira-code/) Version: 2.1.0-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/nerd-fonts-fira-code?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/nerd-fonts-fira-code?color=orange&style=flat-square)
@@ -79,7 +80,7 @@
 *   [w3m-imgcat](docs/w3m-imgcat/) Version: 0.1-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/w3m-imgcat?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/w3m-imgcat?color=orange&style=flat-square)
 *   [wm-maim](docs/wm-maim/) Version: 2021.04.12-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/wm-maim?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/wm-maim?color=orange&style=flat-square)
 *   [wmappearance](docs/wmappearance/) Version: 2021.04.25-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/wmappearance?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/wmappearance?color=orange&style=flat-square)
-*   [](docs//) Version: 2021.04.25-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/?color=orange&style=flat-square)
+*   [wmappearance-gtk3](docs/wmappearance-gtk3/) Version: 2021.04.25-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/wmappearance-gtk3?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/wmappearance-gtk3?color=orange&style=flat-square)
 *   [xcursor-breeze](docs/xcursor-breeze/) Version: 1:5.21.1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/xcursor-breeze?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/xcursor-breeze?color=orange&style=flat-square)
 *   [xtitle](docs/xtitle/) Version: 20190826-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/xtitle?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/xtitle?color=orange&style=flat-square)
 *   [xwingridselect](docs/xwingridselect/) Version: 2021.04.06-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/xwingridselect?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/xwingridselect?color=orange&style=flat-square)
@@ -107,4 +108,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)
-*   Last updated on: Sun 9th, May 2021 at 05:38:21PM
+*   Last updated on: Mon 10th, May 2021 at 05:50:51PM

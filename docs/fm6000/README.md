@@ -16,10 +16,10 @@ pacman -Si *therepoclub/fm6000*
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 15.20 KiB
-<b>Installed Size</b>  : 13.48 KiB
+<b>Download Size</b>   : 15.24 KiB
+<b>Installed Size</b>  : 13.54 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sun 09 May 2021 17:35:58 BST
+<b>Build Date</b>      : Sun 09 May 2021 17:40:05 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

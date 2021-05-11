@@ -4,7 +4,7 @@
   <img src='https://img.shields.io/badge/Maintained-Yes-green?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/last-commit/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/repo-size/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
-  <img src='https://img.shields.io/static/v1?label=Packages&message=71&color=red&style=flat-square'>
+  <img src='https://img.shields.io/static/v1?label=Packages&message=72&color=red&style=flat-square'>
   <img src='https://img.shields.io/static/v1?label=License&message=CC%20BY-NC-SA%204.0&color=red&style=flat-square'>
   <img src='https://img.shields.io/github/issues/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/stars/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
@@ -84,6 +84,7 @@
 *   [xcursor-breeze](docs/xcursor-breeze/) Version: 1:5.21.1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/xcursor-breeze?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/xcursor-breeze?color=orange&style=flat-square)
 *   [xtitle](docs/xtitle/) Version: 20190826-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/xtitle?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/xtitle?color=orange&style=flat-square)
 *   [xwingridselect](docs/xwingridselect/) Version: 2021.04.06-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/xwingridselect?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/xwingridselect?color=orange&style=flat-square)
+*   [yubikey-manager](docs/yubikey-manager/) Version: 4.0.2-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/yubikey-manager-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/yubikey-manager-git?color=orange&style=flat-square)
 
 ## Add my repo
 * **Maintainer:** [The-Repo-Club](https://aur.archlinux.org/account/The-Repo-Club/)
@@ -108,4 +109,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)
-*   Last updated on: Mon 10th, May 2021 at 05:50:51PM
+*   Last updated on: Tue 11th, May 2021 at 09:36:44PM

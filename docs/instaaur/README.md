@@ -4,8 +4,8 @@ pacman -Si *therepoclub/instaaur*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/instaaur-2021.05.10-1-any.pkg.tar.zst">instaaur</a>
-<b>Version</b>         : 2021.05.10-1
+<b>Name</b>            : <a href="../../x86_64/instaaur-2021.05.16-1-any.pkg.tar.zst">instaaur</a>
+<b>Version</b>         : 2021.05.16-1
 <b>Description</b>     : A bach AUR wrapper
 <b>Architecture</b>    : any
 <b>URL</b>             : https://github.com/The-Repo-Club/instaaur
@@ -16,10 +16,10 @@ pacman -Si *therepoclub/instaaur*
 <b>Optional Deps</b>   : git: AUR4 git support
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 18.56 KiB
-<b>Installed Size</b>  : 17.62 KiB
+<b>Download Size</b>   : 19.54 KiB
+<b>Installed Size</b>  : 21.41 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Mon 10 May 2021 17:47:11 BST
+<b>Build Date</b>      : Sun 16 May 2021 18:17:55 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

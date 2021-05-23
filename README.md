@@ -40,7 +40,7 @@
 *   [i3-session](docs/i3-session/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/i3-session?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/i3-session?color=orange&style=flat-square)
 *   [i3-swallow](docs/i3-swallow/) Version: 2021.01.01-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/i3-swallow?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/i3-swallow?color=orange&style=flat-square)
 *   [i3lock-color](docs/i3lock-color/) Version: 2.13.c.2-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/i3lock-color?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/i3lock-color?color=orange&style=flat-square)
-*   [instaaur](docs/instaaur/) Version: 2021.05.16-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/instaaur?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/instaaur?color=orange&style=flat-square)
+*   [instaaur](docs/instaaur/) Version: 2021.05.23-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/instaaur?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/instaaur?color=orange&style=flat-square)
 *   [instamenu](docs/instamenu/) Version: 2021.04.18-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/instamenu?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/instamenu?color=orange&style=flat-square)
 *   [instamenu-extra](docs/instamenu-extra/) Version: 2021.05.08-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/instamenu-extra?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/instamenu-extra?color=orange&style=flat-square)
 *   [instamenu-schemas](docs/instamenu-schemas/) Version: 2021.04.17-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/instamenu-schemas?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/instamenu-schemas?color=orange&style=flat-square)
@@ -109,4 +109,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)
-*   Last updated on: Thu 20th, May 2021 at 07:32:54PM
+*   Last updated on: Sun 23rd, May 2021 at 02:08:57PM

@@ -40,7 +40,7 @@
 *   [i3-swallow](docs/i3-swallow/) Version: 2021.01.01-2
 *   [i3lock-color](docs/i3lock-color/) Version: 2.13.c.2-1
 *   [instaaur](docs/instaaur/) Version: 2021.05.23-1
-*   [](docs//) Version: 2021.04.18-1
+*   [instamenu](docs/instamenu/) Version: 2021.04.18-1
 *   [instamenu-extra](docs/instamenu-extra/) Version: 2021.05.08-1
 *   [instamenu-schemas](docs/instamenu-schemas/) Version: 2021.04.17-1
 *   [instawm](docs/instawm/) Version: 2021.05.09-1
@@ -104,4 +104,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)
-*   Last updated on: Thu 27th, May 2021 at 07:30:37PM
+*   Last updated on: Thu 27th, May 2021 at 07:32:17PM

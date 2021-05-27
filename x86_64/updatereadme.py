@@ -97,7 +97,8 @@ for file in files:
         print(f"File Updated: Name ({name}), Version ({version})")
         aur_name = get_aur_name(name)
 
-        readme.write(f"*   [{name}](docs/{name}/) Version: {version} ![AUR maintainer](https://img.shields.io/aur/maintainer/{aur_name}?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/{aur_name}?color=orange&style=flat-square)\n")
+        #readme.write(f"*   [{name}](docs/{name}/) Version: {version} ![AUR maintainer](https://img.shields.io/aur/maintainer/{aur_name}?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/{aur_name}?color=orange&style=flat-square)\n")
+        readme.write(f"*   [{name}](docs/{name}/) Version: {version}\n")
         installme.write(f"{name}\n")
 
 multiline_addrepo = (f"\n## Add my repo\n"

@@ -4,7 +4,7 @@
   <img src='https://img.shields.io/badge/Maintained-Yes-green?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/last-commit/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/repo-size/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
-  <img src='https://img.shields.io/static/v1?label=Packages&message=67&color=red&style=flat-square'>
+  <img src='https://img.shields.io/static/v1?label=Packages&message=66&color=red&style=flat-square'>
   <img src='https://img.shields.io/static/v1?label=License&message=CC%20BY-NC-SA%204.0&color=red&style=flat-square'>
   <img src='https://img.shields.io/github/issues/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/stars/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
@@ -38,7 +38,7 @@
 *   [i3-cheat](docs/i3-cheat/) Version: 2021.01.17-1
 *   [i3-session](docs/i3-session/) Version: 2021.01.01-1
 *   [i3-swallow](docs/i3-swallow/) Version: 2021.01.01-2
-*   [i3lock-color](docs/i3lock-color/) Version: 2.13.c.2-1
+*   [i3lock-color](docs/i3lock-color/) Version: 2.13.c.3-1
 *   [instaaur](docs/instaaur/) Version: 2021.05.23-1
 *   [instamenu](docs/instamenu/) Version: 2021.04.18-1
 *   [instamenu-extra](docs/instamenu-extra/) Version: 2021.05.08-1
@@ -79,7 +79,6 @@
 *   [xcursor-breeze](docs/xcursor-breeze/) Version: 1:5.21.1-1
 *   [xtitle](docs/xtitle/) Version: 20190826-1
 *   [xwingridselect](docs/xwingridselect/) Version: 2021.04.06-1
-*   [yubikey-manager](docs/yubikey-manager/) Version: 4.0.2-1
 
 ## Add my repo
 * **Maintainer:** [The-Repo-Club](https://aur.archlinux.org/account/The-Repo-Club/)
@@ -104,4 +103,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)
-*   Last updated on: Thu 27th, May 2021 at 07:32:17PM
+*   Last updated on: Fri 28th, May 2021 at 06:59:47PM

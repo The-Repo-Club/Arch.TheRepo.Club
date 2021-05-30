@@ -16,10 +16,10 @@ pacman -Si *therepoclub/checkupdates-aur*
 <b>Optional Deps</b>   : perl-smart-comments: for debug perpose only
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 14.75 KiB
+<b>Download Size</b>   : 14.38 KiB
 <b>Installed Size</b>  : 3.60 KiB
-<b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
-<b>Build Date</b>      : Wed 02 Sep 2020 15:02:43 BST
+<b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
+<b>Build Date</b>      : Sun 30 May 2021 13:26:01 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

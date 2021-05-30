@@ -16,10 +16,10 @@ pacman -Si *therepoclub/perl-www-aur*
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 59.54 KiB
-<b>Installed Size</b>  : 77.56 KiB
-<b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
-<b>Build Date</b>      : Wed 02 Sep 2020 15:02:39 BST
+<b>Download Size</b>   : 59.25 KiB
+<b>Installed Size</b>  : 77.55 KiB
+<b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
+<b>Build Date</b>      : Sun 30 May 2021 13:26:39 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

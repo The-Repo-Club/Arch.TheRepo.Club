@@ -85,21 +85,19 @@ def get_aur_name(name):
         return(f"{name}")
 
 for file in files:
-    ignore = open("../ignorepackages", "r").read().splitlines()
     name = str(get_file_name(file))
-    if name not in ignore:
+    version = str(get_file_version(file))
+    if not name:
+        name = str(get_file_name(file))
+    if not version:
         version = str(get_file_version(file))
-        if not name:
-            name = str(get_file_name(file))
-        if not version:
-            version = str(get_file_version(file))
 
-        print(f"File Updated: Name ({name}), Version ({version})")
-        aur_name = get_aur_name(name)
+    print(f"File Updated: Name ({name}), Version ({version})")
+    aur_name = get_aur_name(name)
 
-        #readme.write(f"*   [{name}](docs/{name}/) Version: {version} ![AUR maintainer](https://img.shields.io/aur/maintainer/{aur_name}?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/{aur_name}?color=orange&style=flat-square)\n")
-        readme.write(f"*   [{name}](docs/{name}/) Version: {version}\n")
-        installme.write(f"{name}\n")
+    #readme.write(f"*   [{name}](docs/{name}/) Version: {version} ![AUR maintainer](https://img.shields.io/aur/maintainer/{aur_name}?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/{aur_name}?color=orange&style=flat-square)\n")
+    readme.write(f"*   [{name}](docs/{name}/) Version: {version}\n")
+    installme.write(f"{name}\n")
 
 multiline_addrepo = (f"\n## Add my repo\n"
 f"* **Maintainer:** [The-Repo-Club](https://aur.archlinux.org/account/The-Repo-Club/)\n"

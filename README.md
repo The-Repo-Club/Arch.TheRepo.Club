@@ -4,7 +4,7 @@
   <img src='https://img.shields.io/badge/Maintained-Yes-green?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/last-commit/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/repo-size/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
-  <img src='https://img.shields.io/static/v1?label=Packages&message=66&color=red&style=flat-square'>
+  <img src='https://img.shields.io/static/v1?label=Packages&message=65&color=red&style=flat-square'>
   <img src='https://img.shields.io/static/v1?label=License&message=CC%20BY-NC-SA%204.0&color=red&style=flat-square'>
   <img src='https://img.shields.io/github/issues/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/stars/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
@@ -16,7 +16,6 @@
 *   [adwaita-qt](docs/adwaita-qt/) Version: 1.3.0-1
 *   [alpm_octopi_utils](docs/alpm_octopi_utils/) Version: 1.0.2-2
 *   [anymeal](docs/anymeal/) Version: 1.13-1
-*   [auracle](docs/auracle/) Version: r366.8739929-1
 *   [aurutils](docs/aurutils/) Version: 3.1.2-2
 *   [bfetch](docs/bfetch/) Version: 2021.04.12-1
 *   [bspwm-cheat](docs/bspwm-cheat/) Version: 2021.01.17-1
@@ -103,4 +102,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)
-*   Last updated on: Tue 1st, Jun 2021 at 04:45:07PM
+*   Last updated on: Tue 1st, Jun 2021 at 04:50:50PM

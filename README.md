@@ -4,7 +4,7 @@
   <img src='https://img.shields.io/badge/Maintained-Yes-green?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/last-commit/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/repo-size/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
-  <img src='https://img.shields.io/static/v1?label=Packages&message=65&color=red&style=flat-square'>
+  <img src='https://img.shields.io/static/v1?label=Packages&message=64&color=red&style=flat-square'>
   <img src='https://img.shields.io/static/v1?label=License&message=CC%20BY-NC-SA%204.0&color=red&style=flat-square'>
   <img src='https://img.shields.io/github/issues/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/stars/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
@@ -58,7 +58,6 @@
 *   [nerd-fonts-roboto-mono](docs/nerd-fonts-roboto-mono/) Version: 2.1.0-1
 *   [nerd-fonts-source-code-pro](docs/nerd-fonts-source-code-pro/) Version: 2.1.0-2
 *   [octopi](docs/octopi/) Version: 0.11.0-1
-*   [paru](docs/paru/) Version: 1.6.1-1
 *   [perl-checkupdates-aur](docs/perl-checkupdates-aur/) Version: 0.04-1
 *   [perl-www-aur](docs/perl-www-aur/) Version: 0.22-3
 *   [polkit-dumb-agent](docs/polkit-dumb-agent/) Version: 2021.01.17-1
@@ -102,4 +101,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)
-*   Last updated on: Tue 1st, Jun 2021 at 04:50:50PM
+*   Last updated on: Tue 1st, Jun 2021 at 05:02:10PM

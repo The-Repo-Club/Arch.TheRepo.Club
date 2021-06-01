@@ -49,7 +49,7 @@
 *   [libart-lgpl](docs/libart-lgpl/) Version: 2.3.21-5
 *   [libxft-bgra](docs/libxft-bgra/) Version: 2.3.3.r7.7808631e-1
 *   [minecraft-launcher](docs/minecraft-launcher/) Version: 921-1
-*   [multimonitorlock](docs/multimonitorlock/) Version: 2021.01.01-1
+*   [multimonitorlock](docs/multimonitorlock/) Version: 2021.06.01-1
 *   [multimonitorlock-gui](docs/multimonitorlock-gui/) Version: 2021.04.26-1
 *   [nbteditor](docs/nbteditor/) Version: 1.3-1
 *   [nerd-fonts-fira-code](docs/nerd-fonts-fira-code/) Version: 2.1.0-2
@@ -65,7 +65,7 @@
 *   [polkit-dumb-agent](docs/polkit-dumb-agent/) Version: 2021.01.17-1
 *   [pyfetch](docs/pyfetch/) Version: 2021.01.18-1
 *   [python-gputil](docs/python-gputil/) Version: 1.4.0-3
-*   [qt-logout](docs/qt-logout/) Version: 2021.05.06-1
+*   [qt-logout](docs/qt-logout/) Version: 2021.06.01-1
 *   [recycle-cli](docs/recycle-cli/) Version: 2021.01.01-1
 *   [siji](docs/siji/) Version: 2021.01.01-1
 *   [timeshift](docs/timeshift/) Version: 20.11.1+3+g08d0e59-3
@@ -103,4 +103,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)
-*   Last updated on: Sun 30th, May 2021 at 01:28:02PM
+*   Last updated on: Tue 1st, Jun 2021 at 04:45:07PM

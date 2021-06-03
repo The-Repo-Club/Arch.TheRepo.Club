@@ -4,7 +4,7 @@
   <img src='https://img.shields.io/badge/Maintained-Yes-green?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/last-commit/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/repo-size/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
-  <img src='https://img.shields.io/static/v1?label=Packages&message=63&color=red&style=flat-square'>
+  <img src='https://img.shields.io/static/v1?label=Packages&message=64&color=red&style=flat-square'>
   <img src='https://img.shields.io/static/v1?label=License&message=CC%20BY-NC-SA%204.0&color=red&style=flat-square'>
   <img src='https://img.shields.io/github/issues/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/stars/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
@@ -34,6 +34,7 @@
 *   [fm6000](docs/fm6000/) Version: 2021.05.20-1
 *   [gamehub](docs/gamehub/) Version: 0.16.0.1-1
 *   [glow](docs/glow/) Version: 1.4.1-1
+*   [gotop](docs/gotop/) Version: 4.1.1-1
 *   [i3-cheat](docs/i3-cheat/) Version: 2021.01.17-1
 *   [i3-session](docs/i3-session/) Version: 2021.01.01-1
 *   [i3-swallow](docs/i3-swallow/) Version: 2021.01.01-2
@@ -100,4 +101,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)
-*   Last updated on: Tue 1st, Jun 2021 at 06:56:32PM
+*   Last updated on: Thu 3rd, Jun 2021 at 08:29:50PM

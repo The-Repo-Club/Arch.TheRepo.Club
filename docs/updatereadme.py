@@ -61,31 +61,29 @@ def get_file_info(file, name):
     return version
 
 for file in files:
-    ignore = open("../ignorepackages", "r").read().splitlines()
     name = str(get_file_name(file))
-    if name not in ignore:
+    name = str(get_file_name(file))
+    version = str(get_file_version(file))
+    info = str(get_file_info(file, name))
+    if not name:
         name = str(get_file_name(file))
+    if not version:
         version = str(get_file_version(file))
+    if not info:
         info = str(get_file_info(file, name))
-        if not name:
-            name = str(get_file_name(file))
-        if not version:
-            version = str(get_file_version(file))
-        if not info:
-            info = str(get_file_info(file, name))
 
-        print(f"File Updated: Name ({name}), Version ({version})")
-        file_name = f'{name}/README.md'
-        if not os.path.exists(os.path.dirname(file_name)):
-            os.makedirs(os.path.dirname(file_name))
-        readme = open(file_name, 'w+')
-        readme.write(f"# Check therepoclub for download\n")
-        readme.write(f"\npacman -Si *therepoclub/{name}*\n")
-        highlight = '<div class="highlight"><pre class="highlight"><text>'
-        readme.write(f"\n{highlight}\n")
-        readme.write(f"{info}")
-        text = '</text></pre></div>'
-        readme.write(f"\n{text}\n")
-        readme.write(f"\n## How to install from therepoclub\n")
-        readme.write(f"\npacman -S *therepoclub/{name}*\n")
-        readme.close()
+    print(f"File Updated: Name ({name}), Version ({version})")
+    file_name = f'{name}/README.md'
+    if not os.path.exists(os.path.dirname(file_name)):
+        os.makedirs(os.path.dirname(file_name))
+    readme = open(file_name, 'w+')
+    readme.write(f"# Check therepoclub for download\n")
+    readme.write(f"\npacman -Si *therepoclub/{name}*\n")
+    highlight = '<div class="highlight"><pre class="highlight"><text>'
+    readme.write(f"\n{highlight}\n")
+    readme.write(f"{info}")
+    text = '</text></pre></div>'
+    readme.write(f"\n{text}\n")
+    readme.write(f"\n## How to install from therepoclub\n")
+    readme.write(f"\npacman -S *therepoclub/{name}*\n")
+    readme.close()

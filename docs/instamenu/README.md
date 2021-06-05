@@ -12,14 +12,20 @@ pacman -Si *therepoclub/instamenu*
 <b>Licenses</b>        : CC BY-NC-SA 4.0
 <b>Groups</b>          : therepoclub
 <b>Provides</b>        : instamenu  dmenu
-<b>Depends On</b>      : sh  python>=3.4  libxinerama  libxft  noto-fonts-emoji  ttf-joypixels  siji  cantarell-fonts  nerd-fonts-fira-code  instamenu-schemas
+<b>Depends On</b>      : python  libxinerama  libxft
 <b>Optional Deps</b>   : instamenu-extra: Extra script that instamenu can use
+                  instamenu-schemas: gsettings for instamenu
+                  siji: font used by default
+                  nerd-fonts-fira-code: font used by default
+                  adobe-source-code-pro-fonts: font used by default
+                  ttf-material-design-icons: font used by default
+                  ttf-remixicon: font used by default
 <b>Conflicts With</b>  : dmenu
 <b>Replaces</b>        : dmenu
-<b>Download Size</b>   : 57.75 KiB
+<b>Download Size</b>   : 55.58 KiB
 <b>Installed Size</b>  : 166.92 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sun 18 Apr 2021 16:32:27 BST
+<b>Build Date</b>      : Tue 01 Jun 2021 19:44:54 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

@@ -13,7 +13,7 @@
 </p>
 
 ## Software
-*   [adwaita-qt](docs/adwaita-qt/) Version: 1.3.0-1
+*   [adwaita-qt](docs/adwaita-qt/) Version: 1.3.1-1
 *   [anymeal](docs/anymeal/) Version: 1.13-1
 *   [auracle](docs/auracle/) Version: r366.8739929-1
 *   [aurutils](docs/aurutils/) Version: 3.1.2-2
@@ -44,7 +44,7 @@
 *   [instamenu-extra](docs/instamenu-extra/) Version: 2021.05.08-1
 *   [instamenu-schemas](docs/instamenu-schemas/) Version: 2021.04.17-1
 *   [instawm](docs/instawm/) Version: 2021.05.09-1
-*   [instawm-schemas](docs/instawm-schemas/) Version: 2021.04.17-1
+*   [instawm-schemas](docs/instawm-schemas/) Version: 2021.06.04-1
 *   [lib32-libxft-bgra](docs/lib32-libxft-bgra/) Version: 2.3.3.r7.7808631e-1
 *   [libart-lgpl](docs/libart-lgpl/) Version: 2.3.21-5
 *   [libxft-bgra](docs/libxft-bgra/) Version: 2.3.3.r7.7808631e-1
@@ -66,7 +66,7 @@
 *   [qt-logout](docs/qt-logout/) Version: 2021.06.01-1
 *   [recycle-cli](docs/recycle-cli/) Version: 2021.01.01-1
 *   [siji](docs/siji/) Version: 2021.01.01-1
-*   [timeshift](docs/timeshift/) Version: 20.11.1+3+g08d0e59-3
+*   [timeshift](docs/timeshift/) Version: 20.11.1+3+g08d0e59-4
 *   [timeshift-autosnap](docs/timeshift-autosnap/) Version: 0.9-1
 *   [touchpad-indicator](docs/touchpad-indicator/) Version: 2021.01.17-3
 *   [transset-df](docs/transset-df/) Version: 6-6
@@ -101,4 +101,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)
-*   Last updated on: Thu 3rd, Jun 2021 at 08:29:50PM
+*   Last updated on: Sat 5th, Jun 2021 at 06:18:09PM

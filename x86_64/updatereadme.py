@@ -37,7 +37,7 @@ badges = f"\n<p align='center'>\n\
   <img src='https://img.shields.io/github/last-commit/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>\n\
   <img src='https://img.shields.io/github/repo-size/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>\n\
   <img src='https://img.shields.io/static/v1?label=Packages&message={pkgcount}&color=red&style=flat-square'>\n\
-  <img src='https://img.shields.io/static/v1?label=License&message=CC%20BY-NC-SA%204.0&color=red&style=flat-square'>\n\
+  <img src='https://img.shields.io/github/license/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>\n\
   <img src='https://img.shields.io/github/issues/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>\n\
   <img src='https://img.shields.io/github/stars/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>\n\
   <img src='https://img.shields.io/github/forks/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>\n\

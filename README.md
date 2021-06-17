@@ -4,7 +4,7 @@
   <img src='https://img.shields.io/badge/Maintained-Yes-green?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/last-commit/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/repo-size/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
-  <img src='https://img.shields.io/static/v1?label=Packages&message=66&color=red&style=flat-square'>
+  <img src='https://img.shields.io/static/v1?label=Packages&message=67&color=red&style=flat-square'>
   <img src='https://img.shields.io/static/v1?label=License&message=CC%20BY-NC-SA%204.0&color=red&style=flat-square'>
   <img src='https://img.shields.io/github/issues/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/stars/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
@@ -14,6 +14,7 @@
 
 ## Software
 *   [adwaita-qt](docs/adwaita-qt/) Version: 1.3.1-1
+*   [ansiweather](docs/ansiweather/) Version: 1.17.0-2
 *   [anymeal](docs/anymeal/) Version: 1.13-1
 *   [auracle](docs/auracle/) Version: r366.8739929-1
 *   [aurutils](docs/aurutils/) Version: 3.1.2-2
@@ -27,8 +28,8 @@
 *   [cutycapt](docs/cutycapt/) Version: 2021.04.04-1
 *   [dracula-gtk-theme](docs/dracula-gtk-theme/) Version: 2021.05.25-1
 *   [dracula-qt5-theme](docs/dracula-qt5-theme/) Version: 2021.05.25-1
-*   [drill-search-cli](docs/drill-search-cli/) Version: 2.1.1-10
-*   [drill-search-gtk](docs/drill-search-gtk/) Version: 2.1.1-10
+*   [drill-search-cli](docs/drill-search-cli/) Version: 566-2
+*   [drill-search-gtk](docs/drill-search-gtk/) Version: 566-2
 *   [duf](docs/duf/) Version: 0.6.2-1
 *   [eso-wallpapers-git](docs/eso-wallpapers-git/) Version: d5109ca-1
 *   [fm6000](docs/fm6000/) Version: 2021.05.20-1
@@ -58,7 +59,7 @@
 *   [nerd-fonts-hack](docs/nerd-fonts-hack/) Version: 2.1.0-3
 *   [nerd-fonts-iosevka](docs/nerd-fonts-iosevka/) Version: 2.1.0-2
 *   [nerd-fonts-mononoki](docs/nerd-fonts-mononoki/) Version: 2.1.0-2
-*   [nerd-fonts-roboto-mono](docs/nerd-fonts-roboto-mono/) Version: 2.1.0-1
+*   [nerd-fonts-roboto-mono](docs/nerd-fonts-roboto-mono/) Version: 2.1.0-2
 *   [nerd-fonts-source-code-pro](docs/nerd-fonts-source-code-pro/) Version: 2.1.0-2
 *   [perl-checkupdates-aur](docs/perl-checkupdates-aur/) Version: 0.04-1
 *   [perl-www-aur](docs/perl-www-aur/) Version: 0.22-3
@@ -68,7 +69,7 @@
 *   [qt-logout](docs/qt-logout/) Version: 2021.06.01-1
 *   [recycle-cli](docs/recycle-cli/) Version: 2021.01.01-1
 *   [siji](docs/siji/) Version: 2021.01.01-1
-*   [timeshift](docs/timeshift/) Version: 20.11.1+3+g08d0e59-4
+*   [timeshift](docs/timeshift/) Version: 20.11.1+4+gd437358-1
 *   [timeshift-autosnap](docs/timeshift-autosnap/) Version: 0.9-1
 *   [touchpad-indicator](docs/touchpad-indicator/) Version: 2021.01.17-3
 *   [transset-df](docs/transset-df/) Version: 6-6
@@ -103,4 +104,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)
-*   Last updated on: Sun 6th, Jun 2021 at 06:26:17PM
+*   Last updated on: Thu 17th, Jun 2021 at 04:58:12PM

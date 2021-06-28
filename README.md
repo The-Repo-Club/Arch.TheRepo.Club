@@ -4,7 +4,7 @@
   <img src='https://img.shields.io/badge/Maintained-Yes-green?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/last-commit/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/repo-size/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
-  <img src='https://img.shields.io/static/v1?label=Packages&message=67&color=red&style=flat-square'>
+  <img src='https://img.shields.io/static/v1?label=Packages&message=65&color=red&style=flat-square'>
   <img src='https://img.shields.io/github/license/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/issues/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/stars/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
@@ -28,8 +28,6 @@
 *   [cutycapt](docs/cutycapt/) Version: 2021.04.04-1
 *   [dracula-gtk-theme](docs/dracula-gtk-theme/) Version: 2021.05.25-1
 *   [dracula-qt5-theme](docs/dracula-qt5-theme/) Version: 2021.05.25-1
-*   [drill-search-cli](docs/drill-search-cli/) Version: 566-2
-*   [drill-search-gtk](docs/drill-search-gtk/) Version: 566-2
 *   [duf](docs/duf/) Version: 0.6.2-1
 *   [eso-wallpapers-git](docs/eso-wallpapers-git/) Version: d5109ca-1
 *   [fm6000](docs/fm6000/) Version: 2021.05.20-1
@@ -104,4 +102,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)
-*   Last updated on: Thu 17th, Jun 2021 at 05:03:42PM
+*   Last updated on: Mon 28th, Jun 2021 at 02:04:07PM

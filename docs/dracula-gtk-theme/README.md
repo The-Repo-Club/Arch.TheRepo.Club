@@ -4,8 +4,8 @@ pacman -Si *therepoclub/dracula-gtk-theme*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/dracula-gtk-theme-2021.05.25-1-any.pkg.tar.zst">dracula-gtk-theme</a>
-<b>Version</b>         : 2021.05.25-1
+<b>Name</b>            : <a href="../../x86_64/dracula-gtk-theme-2021.06.30-1-any.pkg.tar.zst">dracula-gtk-theme</a>
+<b>Version</b>         : 2021.06.30-1
 <b>Description</b>     : This theme provides support for GTK-3 and GTK-2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc. Also provides support for KDE plasma.
 <b>Architecture</b>    : any
 <b>URL</b>             : https://github.com/The-Repo-Club/Dracula
@@ -16,10 +16,10 @@ pacman -Si *therepoclub/dracula-gtk-theme*
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 3.20 MiB
-<b>Installed Size</b>  : 18.66 MiB
+<b>Download Size</b>   : 2.94 MiB
+<b>Installed Size</b>  : 31.34 MiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Tue 25 May 2021 20:59:54 BST
+<b>Build Date</b>      : Wed 30 Jun 2021 21:15:38 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

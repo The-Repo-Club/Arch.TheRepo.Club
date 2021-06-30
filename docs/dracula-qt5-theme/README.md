@@ -4,8 +4,8 @@ pacman -Si *therepoclub/dracula-qt5-theme*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/dracula-qt5-theme-2021.05.25-1-any.pkg.tar.zst">dracula-qt5-theme</a>
-<b>Version</b>         : 2021.05.25-1
+<b>Name</b>            : <a href="../../x86_64/dracula-qt5-theme-2021.06.30-1-any.pkg.tar.zst">dracula-qt5-theme</a>
+<b>Version</b>         : 2021.06.30-1
 <b>Description</b>     : This theme provides support for QT5.
 <b>Architecture</b>    : any
 <b>URL</b>             : https://github.com/The-Repo-Club/Dracula
@@ -16,10 +16,10 @@ pacman -Si *therepoclub/dracula-qt5-theme*
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 12.33 KiB
+<b>Download Size</b>   : 12.49 KiB
 <b>Installed Size</b>  : 0.73 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Tue 25 May 2021 21:01:02 BST
+<b>Build Date</b>      : Wed 30 Jun 2021 21:15:37 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

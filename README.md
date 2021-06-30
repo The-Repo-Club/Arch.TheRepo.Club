@@ -26,8 +26,8 @@
 *   [ckbcomp](docs/ckbcomp/) Version: 1.202-1
 *   [colorgrab](docs/colorgrab/) Version: 0.3-2
 *   [cutycapt](docs/cutycapt/) Version: 2021.04.04-1
-*   [dracula-gtk-theme](docs/dracula-gtk-theme/) Version: 2021.05.25-1
-*   [dracula-qt5-theme](docs/dracula-qt5-theme/) Version: 2021.05.25-1
+*   [dracula-gtk-theme](docs/dracula-gtk-theme/) Version: 2021.06.30-1
+*   [dracula-qt5-theme](docs/dracula-qt5-theme/) Version: 2021.06.30-1
 *   [duf](docs/duf/) Version: 0.6.2-1
 *   [eso-wallpapers-git](docs/eso-wallpapers-git/) Version: d5109ca-1
 *   [fm6000](docs/fm6000/) Version: 2021.05.20-1
@@ -102,4 +102,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)
-*   Last updated on: Mon 28th, Jun 2021 at 02:04:07PM
+*   Last updated on: Wed 30th, Jun 2021 at 09:21:42PM

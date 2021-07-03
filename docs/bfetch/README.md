@@ -4,12 +4,12 @@ pacman -Si *therepoclub/bfetch*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/bfetch-2021.04.12-1-any.pkg.tar.zst">bfetch</a>
-<b>Version</b>         : 2021.04.12-1
+<b>Name</b>            : <a href="../../x86_64/bfetch-2021.07.03-1-any.pkg.tar.zst">bfetch</a>
+<b>Version</b>         : 2021.07.03-1
 <b>Description</b>     : A CLI system information tool written in BASH that supports displaying images.
 <b>Architecture</b>    : any
 <b>URL</b>             : https://github.com/The-Repo-Club/bfetch
-<b>Licenses</b>        : CC BY-NC-SA 4.0
+<b>Licenses</b>        : MIT
 <b>Groups</b>          : therepoclub
 <b>Provides</b>        : None
 <b>Depends On</b>      : bash
@@ -21,15 +21,15 @@ pacman -Si *therepoclub/bfetch*
                   libcaca: Display Images
                   nitrogen: Wallpaper Display
                   w3m: Display Images
-                  xorg-xdpyinfo: Resolution detection (Single Monitor)
+                  xorg-xdpyinfo: Resolution detection [Single Monitor]
                   xorg-xprop: Desktop Environment and Window Manager
-                  xorg-xrandr: Resolution detection (Multi Monitor + Refresh rates)
+                  xorg-xrandr: Resolution detection [Multi Monitor + Refresh rates]
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 123.94 KiB
-<b>Installed Size</b>  : 382.48 KiB
+<b>Download Size</b>   : 116.04 KiB
+<b>Installed Size</b>  : 494.45 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sun 11 Apr 2021 22:50:35 BST
+<b>Build Date</b>      : Sat 03 Jul 2021 16:55:21 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

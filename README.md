@@ -66,7 +66,7 @@
 *   [python-gputil](docs/python-gputil/) Version: 1.4.0-3
 *   [qt-logout](docs/qt-logout/) Version: 2021.06.01-1
 *   [recycle-cli](docs/recycle-cli/) Version: 2021.01.01-1
-*   [siji](docs/siji/) Version: 2021.01.01-1
+*   [siji](docs/siji/) Version: 2021.07.03-1
 *   [timeshift](docs/timeshift/) Version: 20.11.1+4+gd437358-1
 *   [timeshift-autosnap](docs/timeshift-autosnap/) Version: 0.9-1
 *   [touchpad-indicator](docs/touchpad-indicator/) Version: 2021.01.17-3
@@ -102,4 +102,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)
-*   Last updated on: Sat 3rd, Jul 2021 at 06:23:19PM
+*   Last updated on: Sat 3rd, Jul 2021 at 06:51:23PM

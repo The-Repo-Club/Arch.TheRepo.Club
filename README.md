@@ -18,7 +18,7 @@
 *   [anymeal](docs/anymeal/) Version: 1.13-1
 *   [auracle](docs/auracle/) Version: r366.8739929-1
 *   [aurutils](docs/aurutils/) Version: 3.1.2-2
-*   [bfetch](docs/bfetch/) Version: 2021.07.03-1
+*   [bfetch](docs/bfetch/) Version: 2021.07.04-1
 *   [bspwm-cheat](docs/bspwm-cheat/) Version: 2021.01.17-1
 *   [checkupdates+aur](docs/checkupdates+aur/) Version: 1-3
 *   [checkupdates-aur](docs/checkupdates-aur/) Version: 0.04-1
@@ -102,4 +102,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)
-*   Last updated on: Sat 3rd, Jul 2021 at 06:51:23PM
+*   Last updated on: Sun 4th, Jul 2021 at 09:52:08PM

@@ -4,7 +4,7 @@
   <img src='https://img.shields.io/badge/Maintained-Yes-green?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/last-commit/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/repo-size/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
-  <img src='https://img.shields.io/static/v1?label=Packages&message=65&color=red&style=flat-square'>
+  <img src='https://img.shields.io/static/v1?label=Packages&message=66&color=red&style=flat-square'>
   <img src='https://img.shields.io/github/license/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/issues/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/stars/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
@@ -66,6 +66,7 @@
 *   [python-gputil](docs/python-gputil/) Version: 1.4.0-3
 *   [qt-logout](docs/qt-logout/) Version: 2021.06.01-1
 *   [recycle-cli](docs/recycle-cli/) Version: 2021.01.01-1
+*   [sddm-endeavour](docs/sddm-endeavour/) Version: 2021.07.05-1
 *   [siji](docs/siji/) Version: 2021.07.03-1
 *   [timeshift](docs/timeshift/) Version: 20.11.1+4+gd437358-1
 *   [timeshift-autosnap](docs/timeshift-autosnap/) Version: 0.9-1
@@ -102,4 +103,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)
-*   Last updated on: Sun 4th, Jul 2021 at 09:52:08PM
+*   Last updated on: Mon 5th, Jul 2021 at 03:31:27PM

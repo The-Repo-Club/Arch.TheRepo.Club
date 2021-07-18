@@ -4,7 +4,7 @@
   <img src='https://img.shields.io/badge/Maintained-Yes-green?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/last-commit/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/repo-size/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
-  <img src='https://img.shields.io/static/v1?label=Packages&message=66&color=red&style=flat-square'>
+  <img src='https://img.shields.io/static/v1?label=Packages&message=65&color=red&style=flat-square'>
   <img src='https://img.shields.io/github/license/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/issues/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/stars/The-Repo-Club/Arch.TheRepo.Club?color=red&style=flat-square'>
@@ -62,7 +62,6 @@
 *   [perl-checkupdates-aur](docs/perl-checkupdates-aur/) Version: 0.04-1
 *   [perl-www-aur](docs/perl-www-aur/) Version: 0.22-3
 *   [polkit-dumb-agent](docs/polkit-dumb-agent/) Version: 2021.01.17-1
-*   [pyfetch](docs/pyfetch/) Version: 2021.01.18-1
 *   [python-gputil](docs/python-gputil/) Version: 1.4.0-3
 *   [qt-logout](docs/qt-logout/) Version: 2021.06.01-1
 *   [recycle-cli](docs/recycle-cli/) Version: 2021.01.01-1
@@ -103,4 +102,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)
-*   Last updated on: Mon 5th, Jul 2021 at 03:31:27PM
+*   Last updated on: Sun 18th, Jul 2021 at 01:09:45PM
